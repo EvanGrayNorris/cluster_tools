@@ -1,0 +1,4 @@
+*.log
+*.pyc
+initrd.img.gz
+vmlinuz

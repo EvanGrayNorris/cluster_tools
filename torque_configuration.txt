@@ -1,0 +1,151 @@
+# This file contains Torque's configuration to be loaded.
+# NB 2010 11 30
+#
+# Usage (as root):
+#   cat torque_configuration.txt | qmgr
+#
+# Generated using:
+#   qmgr -c 'p s' > torque_configuration.txt
+# and then modifying it.
+#
+# There is 70 normal nodes (2 to 71) and 5 supernodes (101 to 105).
+# Each have 2 processors with 4 cores each and hyperthreading.
+# Total number of cores (including hyperthreading) on the normal nodes:
+#   2*4*2*70 = 1120
+# Total number of cores (including hyperthreading) on the supernodes:
+#   2*4*2*5 = 80
+# Total number of cores (including hyperthreading) on the cluster:
+#   2*4*2*(70+5) = 1200
+#
+# Initially, queues had:
+#   set queue QUEUENAME max_running = 552
+#   set queue QUEUENAME resources_max.ncpus = 552
+# because we had 69 normal nodes and hyperthreading was ignored: 2*4*69 = 552
+# BUT WAIT! max_running is to:
+#   "Specifies the maximum number of jobs in the queue allowed to run at any given time"
+# this means we don't want to set a limit.
+#
+# Since the queues already exists, their creating have been commented.
+#
+# To reset:
+#
+# /etc/init.d/maui stop
+# /etc/init.d/pbs_server stop
+# pbs_server -t create
+# cat torque_configuration.txt | qmgr
+# rm -f /var/spool/torque/server_priv/nodes
+# for (( n = 2; n <= 71; n++ )); do
+#   echo "node${n} np=16 normalnode" >> /var/spool/torque/server_priv/nodes
+# done
+# for (( n = 101; n <= 105; n++ )); do
+#   echo "node${n} np=16 supernode" >> /var/spool/torque/server_priv/nodes
+# done
+# pkill pbs_server
+# /etc/init.d/pbs_server start
+# /etc/init.d/maui start
+#
+################################################################################
+#
+# Create queues and set their attributes.
+#
+#
+# Create and define queue low
+#
+
+
+# #create queue low
+# set queue low queue_type = Execution
+# set queue low Priority = 10
+# #set queue low max_running = 1120
+# set queue low resources_max.ncpus = 1120
+# set queue low resources_max.walltime = 96:00:00
+# set queue low resources_default.neednodes = normalnode
+# set queue low enabled = False
+# set queue low started = False
+# #
+# # Create and define queue high
+# #
+# #create queue high
+# set queue high queue_type = Execution
+# set queue high Priority = 70
+# 3set queue high max_running = 1120
+# set queue high resources_max.ncpus = 1120
+# set queue high resources_max.walltime = 24:00:00
+# set queue high resources_default.neednodes = normalnode
+# set queue high enabled = False
+# set queue high started = False
+# #
+# # Create and define queue short
+# #
+# #create queue short
+# set queue short queue_type = Execution
+# set queue short Priority = 100
+# #set queue short max_running = 1120
+# set queue short resources_max.ncpus = 1120
+# set queue short resources_max.walltime = 00:05:00
+# set queue short resources_default.neednodes = normalnode
+# set queue short enabled = False
+# set queue short started = False
+# #
+# # Create and define queue medium
+# #
+# #create queue medium
+# set queue medium queue_type = Execution
+# set queue medium Priority = 40
+# #set queue medium max_running = 1120
+# set queue medium resources_max.ncpus = 1120
+# set queue medium resources_max.walltime = 48:00:00
+# set queue medium resources_default.neednodes = normalnode
+# set queue medium enabled = False
+# set queue medium started = False
+#
+# Create and define queue supernodes
+#
+create queue supernodes
+set queue supernodes queue_type = Execution
+#set queue medium Priority = 40
+# set queue supernodes resources_available.ncpus = 80
+set queue supernodes resources_available.nodes = 5
+# set queue supernodes resources_available.nodect = 5
+# set queue supernodes resources_max.ncpus = 80
+# set queue supernodes resources_max.nodes = 5
+# set queue supernodes resources_max.nodect = 5
+set queue supernodes resources_default.neednodes = supernode
+# set queue supernodes resources_default.ncpus = 1
+# set queue supernodes resources_default.nodes = 1
+set queue supernodes resources_default.walltime = 00:10:00
+set queue supernodes enabled = True
+set queue supernodes started = True
+#set queue supernodes acl_host_enable = False
+#set queue supernodes acl_hosts  = node101
+#set queue supernodes acl_hosts += node102
+#set queue supernodes acl_hosts += node103
+#set queue supernodes acl_hosts += node104
+#set queue supernodes acl_hosts += node105
+
+#
+# Set server attributes.
+#
+set server scheduling = True
+set server acl_hosts = unicron.cl.uottawa.ca
+set server acl_user_enable = true
+set server acl_users = nicolas@unicron.cl.uottawa.ca
+# set server managers   = root@unicron.cl.uottawa.ca
+# set server managers  += nicolas@unicron.cl.uottawa.ca
+set server operators  = root@unicron.cl.uottawa.ca
+set server operators += nicolas@unicron.cl.uottawa.ca
+set server default_queue = supernodes
+# set server default_queue = short
+set server log_events = 511
+set server mail_from = adm
+set server resources_available.ncpus = 1200
+set server resources_available.nodect = 75
+# set server resources_default.ncpus = 1
+# set server resources_default.nodect = 1
+set server scheduler_iteration = 600
+set server node_check_rate = 150
+set server tcp_timeout = 6
+set server auto_node_np = False
+set server next_job_number = 90842
+
+

@@ -1,0 +1,1660 @@
+Time ,Device ,Event Type ,Elapse Time ,Errors,Comment
+10/11/2011 13:03:33,Proxy Or Inband ,HTTP Log In 
+08/11/2011 16:53:30,Enc#3 001 ,Device Failed 
+08/11/2011 16:53:30,Raid Set OS ,RaidSet Degraded 
+08/11/2011 16:53:28,RAID1 ,Volume Degraded 
+08/11/2011 16:53:27,Enc#3 001 ,Reading Error 
+08/11/2011 16:53:20,Enc#3 001 ,Reading Error 
+08/11/2011 16:53:16,Enc#3 001 ,Reading Error 
+08/11/2011 16:53:11,Enc#3 001 ,Reading Error 
+08/11/2011 16:53:04,Enc#3 001 ,Reading Error 
+17/10/2011 11:01:04,Proxy Or Inband ,HTTP Log In 
+14/10/2011 18:40:40,Enc#4 023 ,PassThrough Disk Created 
+14/10/2011 18:40:19,Enc#4 023 ,PassThrough Disk Deleted 
+14/10/2011 18:21:06,Enc#4 023 ,PassThrough Disk Modified 
+14/10/2011 18:17:23,Proxy Or Inband ,HTTP Log In 
+14/10/2011 16:57:42,Proxy Or Inband ,HTTP Log In 
+13/10/2011 16:23:34,Proxy Or Inband ,HTTP Log In 
+04/10/2011 11:50:42,Enc#4 023 ,PassThrough Disk Created 
+04/10/2011 11:49:03,Proxy Or Inband ,HTTP Log In 
+29/09/2011 11:11:50,Proxy Or Inband ,HTTP Log In 
+28/09/2011 12:23:53,Proxy Or Inband ,HTTP Log In 
+23/09/2011 20:42:44,Proxy Or Inband ,HTTP Log In 
+22/09/2011 15:17:03,Proxy Or Inband ,HTTP Log In 
+22/09/2011 14:33:40,H/W Monitor ,Raid Powered On 
+19/09/2011 11:51:26,Proxy Or Inband ,HTTP Log In 
+17/09/2011 19:12:35,R60Vol2-1 ,Complete Rebuild ,15:32:48
+17/09/2011 11:33:07,Proxy Or Inband ,HTTP Log In 
+17/09/2011 03:40:07,R60Vol2-1 ,Start Rebuilding 
+17/09/2011 03:40:05,Raid Set A ,Rebuild RaidSet 
+17/09/2011 03:40:05,Enc#3 003 ,Device Inserted 
+17/09/2011 03:40:05,Enc#3 003 ,Device Removed 
+17/09/2011 03:40:05,Raid Set A ,RaidSet Degraded 
+17/09/2011 03:40:03,R60Vol2-1 ,Volume Degraded 
+17/09/2011 03:39:57,Enc#3 003 ,Time Out Error 
+17/09/2011 03:38:33,Enc#3 003 ,Time Out Error 
+16/09/2011 19:25:17,Enc#3 003 ,Time Out Error 
+16/09/2011 13:36:10,Enc#3 003 ,Time Out Error 
+13/09/2011 16:57:19,Proxy Or Inband ,HTTP Log In 
+29/08/2011 18:06:36,Proxy Or Inband ,HTTP Log In 
+29/08/2011 18:02:36,Proxy Or Inband ,HTTP Log In 
+29/08/2011 17:55:00,Proxy Or Inband ,HTTP Log In 
+29/08/2011 17:53:08,H/W Monitor ,Raid Powered On 
+29/08/2011 17:49:03,H/W Monitor ,Raid Powered On ,,,Moved RAID Set B to right cabinet. RAID Set A (master) untouched.
+18/08/2011 22:04:39,Proxy Or Inband ,HTTP Log In 
+18/08/2011 15:28:31,Proxy Or Inband ,HTTP Log In 
+18/08/2011 15:21:36,H/W Monitor ,Raid Powered On 
+18/08/2011 08:55:31,Proxy Or Inband ,HTTP Log In 
+17/08/2011 14:36:47,Proxy Or Inband ,HTTP Log In 
+15/08/2011 15:35:26,Proxy Or Inband ,HTTP Log In 
+12/08/2011 20:46:04,H/W Monitor ,Raid Powered On 
+12/08/2011 19:07:49,H/W Monitor ,Raid Powered On 
+12/08/2011 18:59:33,Proxy Or Inband ,HTTP Log In 
+12/08/2011 18:19:12,H/W Monitor ,Raid Powered On 
+12/08/2011 18:16:55,H/W Monitor ,Raid Powered On 
+12/08/2011 18:14:53,RS232 Terminal ,VT100 Log In 
+12/08/2011 17:25:34,RAID1 ,Complete Rebuild ,02:31:45
+12/08/2011 15:03:26,Enc#4 023 ,PassThrough Disk Created 
+12/08/2011 15:01:49,RS232 Terminal ,VT100 Log In 
+12/08/2011 15:01:22,Enc#4 023 ,Device Inserted 
+12/08/2011 14:53:48,RAID1 ,Start Rebuilding 
+12/08/2011 14:53:46,Raid Set OS ,Rebuild RaidSet 
+12/08/2011 14:53:46,Enc#3 001 ,Device Inserted ,,,Changed drive with new one at 10:53am
+12/08/2011 14:52:07,RS232 Terminal ,VT100 Log In 
+12/08/2011 14:51:42,H/W Monitor ,Raid Powered On 
+12/08/2011 10:37:54,Enc#3 001 ,Device Removed ,,,Cluster went down
+12/08/2011 10:37:54,Raid Set OS ,RaidSet Degraded 
+12/08/2011 10:37:52,RAID1 ,Abort Rebuilding ,12:11:12
+12/08/2011 10:37:52,RAID1 ,Volume Degraded 
+11/08/2011 22:37:08,Enc#3 001 ,Time Out Error 
+11/08/2011 22:26:48,Enc#3 001 ,Time Out Error 
+11/08/2011 22:26:40,RAID1 ,Start Rebuilding 
+11/08/2011 22:26:38,Raid Set OS ,Rebuild RaidSet 
+11/08/2011 22:26:38,Enc#3 001 ,Device Inserted 
+11/08/2011 22:26:31,Enc#3 001 ,Device Removed 
+11/08/2011 22:26:30,Raid Set OS ,RaidSet Degraded 
+11/08/2011 22:26:28,RAID1 ,Abort Rebuilding ,03:18:48
+11/08/2011 22:26:28,RAID1 ,Volume Degraded 
+11/08/2011 22:26:23,Enc#3 001 ,Time Out Error 
+11/08/2011 22:20:58,Enc#3 001 ,Time Out Error 
+11/08/2011 19:07:40,RAID1 ,Start Rebuilding 
+11/08/2011 19:07:38,Raid Set OS ,Rebuild RaidSet 
+11/08/2011 19:07:38,Enc#3 001 ,Device Inserted 
+11/08/2011 19:07:32,Enc#3 001 ,Device Removed 
+11/08/2011 19:07:32,Raid Set OS ,RaidSet Degraded 
+11/08/2011 19:07:30,RAID1 ,Abort Rebuilding ,03:18:10
+11/08/2011 19:07:30,RAID1 ,Volume Degraded 
+11/08/2011 19:07:24,Enc#3 001 ,Time Out Error 
+11/08/2011 15:49:19,RAID1 ,Start Rebuilding 
+11/08/2011 15:49:17,Raid Set OS ,Rebuild RaidSet 
+11/08/2011 15:49:17,Enc#3 001 ,Device Inserted 
+11/08/2011 15:49:15,Enc#3 001 ,Device Removed 
+11/08/2011 15:49:15,Raid Set OS ,RaidSet Degraded 
+11/08/2011 15:49:13,RAID1 ,Abort Rebuilding ,03:18:31
+11/08/2011 15:49:13,RAID1 ,Volume Degraded 
+11/08/2011 15:49:07,Enc#3 001 ,Time Out Error 
+11/08/2011 12:42:33,Proxy Or Inband ,HTTP Log In 
+11/08/2011 12:31:03,RAID1 ,Start Rebuilding 
+11/08/2011 12:31:01,Raid Set OS ,Rebuild RaidSet 
+11/08/2011 12:31:00,Enc#3 001 ,Device Inserted 
+11/08/2011 12:30:44,Enc#3 001 ,Device Removed 
+11/08/2011 12:30:43,Raid Set OS ,RaidSet Degraded 
+11/08/2011 12:30:41,RAID1 ,Volume Degraded 
+11/08/2011 12:30:36,Enc#3 001 ,Time Out Error 
+10/08/2011 10:40:22,Proxy Or Inband ,HTTP Log In 
+10/08/2011 10:34:35,SW API Interface ,API Log In 
+09/08/2011 08:00:58,Enc#3 001 ,Reading Error 
+05/08/2011 10:17:09,Proxy Or Inband ,HTTP Log In 
+05/08/2011 08:36:42,Proxy Or Inband ,HTTP Log In 
+05/08/2011 08:36:36,RAID1 ,Complete Rebuild ,03:22:08
+05/08/2011 06:23:16,Enc#3 001 ,Time Out Error 
+05/08/2011 05:14:28,RAID1 ,Start Rebuilding 
+05/08/2011 05:14:26,Raid Set OS ,Rebuild RaidSet 
+05/08/2011 05:14:26,Enc#3 001 ,Device Inserted 
+05/08/2011 05:13:14,Enc#3 001 ,Device Removed 
+05/08/2011 05:13:14,Raid Set OS ,RaidSet Degraded 
+05/08/2011 05:13:12,RAID1 ,Volume Degraded 
+05/08/2011 05:13:06,Enc#3 001 ,Time Out Error 
+05/08/2011 05:12:54,RAID1 ,Complete Rebuild ,03:23:40
+05/08/2011 05:11:57,Enc#3 001 ,Time Out Error 
+05/08/2011 01:49:13,RAID1 ,Start Rebuilding 
+05/08/2011 01:49:11,Raid Set OS ,Rebuild RaidSet 
+05/08/2011 01:49:11,Enc#3 001 ,Device Inserted 
+05/08/2011 01:48:13,Enc#3 001 ,Device Removed 
+05/08/2011 01:48:12,Raid Set OS ,RaidSet Degraded 
+05/08/2011 01:48:10,RAID1 ,Abort Rebuilding ,03:21:13
+05/08/2011 01:48:10,RAID1 ,Volume Degraded 
+05/08/2011 01:48:04,Enc#3 001 ,Time Out Error 
+04/08/2011 22:30:48,Proxy Or Inband ,HTTP Log In 
+04/08/2011 22:26:56,RAID1 ,Start Rebuilding 
+04/08/2011 22:26:54,Raid Set OS ,Rebuild RaidSet 
+04/08/2011 22:26:54,Enc#3 001 ,Device Inserted 
+04/08/2011 22:26:53,Enc#3 001 ,Device Removed 
+04/08/2011 22:26:52,Raid Set OS ,RaidSet Degraded 
+04/08/2011 22:26:50,RAID1 ,Volume Degraded 
+04/08/2011 22:26:45,Enc#3 001 ,Time Out Error 
+04/08/2011 22:26:33,RAID1 ,Complete Rebuild ,03:59:09
+04/08/2011 18:27:29,RAID1 ,Start Rebuilding ,,,Time is right
+04/08/2011 18:27:27,Raid Set OS ,Rebuild RaidSet 
+04/08/2011 18:27:27,Enc#3 001 ,Device Inserted 
+04/08/2011 18:27:26,Enc#3 001 ,Device Removed 
+04/08/2011 18:27:26,Raid Set OS ,RaidSet Degraded 
+04/08/2011 18:27:24,RAID1 ,Volume Degraded 
+04/08/2011 18:27:18,Enc#3 001 ,Time Out Error 
+04/08/2011 16:08:12,Enc#3 001 ,Reading Error 
+04/08/2011 13:43:34,Proxy Or Inband ,HTTP Log In 
+03/08/2011 11:59:11,Proxy Or Inband ,HTTP Log In 
+02/08/2011 09:24:48,Proxy Or Inband ,HTTP Log In 
+02/08/2011 09:22:13,Proxy Or Inband ,HTTP Log In 
+02/08/2011 09:22:07,Proxy Or Inband ,HTTP Log In 
+01/08/2011 09:55:52,Proxy Or Inband ,HTTP Log In 
+29/07/2011 11:14:49,Proxy Or Inband ,HTTP Log In 
+28/07/2011 11:36:23,Proxy Or Inband ,HTTP Log In 
+27/07/2011 07:54:18,Enc#3 003 ,Time Out Error ,,,Time is bad. Probably was 12:54?
+27/07/2011 07:54:07,Enc#3 003 ,Time Out Error 
+26/07/2011 10:07:11,Proxy Or Inband ,HTTP Log In 
+25/07/2011 14:28:43,Proxy Or Inband ,HTTP Log In 
+23/07/2011 17:34:20,H/W Monitor ,Raid Powered On 
+23/07/2011 12:07:40,Proxy Or Inband ,HTTP Log In 
+22/07/2011 15:11:16,Proxy Or Inband ,HTTP Log In 
+22/07/2011 13:46:01,Proxy Or Inband ,HTTP Log In 
+22/07/2011 12:06:18,Proxy Or Inband ,HTTP Log In 
+21/07/2011 20:00:47,Proxy Or Inband ,HTTP Log In ,,,Time is now bad... Login time was ~16h
+21/07/2011 18:35:07,H/W Monitor ,Raid Powered On 
+21/07/2011 18:13:58,H/W Monitor ,Raid Powered On 
+21/07/2011 18:04:59,H/W Monitor ,Raid Powered On 
+21/07/2011 17:53:29,H/W Monitor ,Raid Powered On 
+21/07/2011 17:49:52,H/W Monitor ,Raid Powered On 
+20/07/2011 10:52:07,Enc#3 001 ,Reading Error 
+19/07/2011 13:56:13,Proxy Or Inband ,HTTP Log In 
+19/07/2011 00:24:34,H/W Monitor ,Raid Powered On 
+18/07/2011 16:58:44,H/W Monitor ,Raid Powered On 
+18/07/2011 16:57:24,Proxy Or Inband ,HTTP Log In 
+18/07/2011 15:11:48,H/W Monitor ,Raid Powered On 
+18/07/2011 10:22:34,Proxy Or Inband ,HTTP Log In ,,,Logged in at 10:22 am: time is ok
+15/07/2011 09:33:29,Enc#3 001 ,Reading Error 
+14/07/2011 16:00:26,Proxy Or Inband ,HTTP Log In 
+08/07/2011 13:27:42,Proxy Or Inband ,HTTP Log In ,,,Logged in at 9:27 am: 4 hours before what is saved in log
+08/07/2011 00:13:49,H/W Monitor ,Raid Powered On 
+08/07/2011 00:12:06,H/W Monitor ,Raid Powered On 
+08/07/2011 00:00:27,H/W Monitor ,Raid Powered On 
+07/07/2011 23:33:40,H/W Monitor ,Raid Powered On 
+07/07/2011 23:30:59,H/W Monitor ,Raid Powered On 
+07/07/2011 23:13:28,H/W Monitor ,Raid Powered On 
+07/07/2011 09:58:43,Proxy Or Inband ,HTTP Log In 
+06/07/2011 19:16:29,Proxy Or Inband ,HTTP Log In 
+06/07/2011 13:37:46,Proxy Or Inband ,HTTP Log In 
+05/07/2011 21:04:57,Enc#3 001 ,Time Out Error 
+05/07/2011 19:45:29,Proxy Or Inband ,HTTP Log In 
+05/07/2011 19:37:32,H/W Monitor ,Raid Powered On 
+22/06/2011 16:02:47,H/W Monitor ,Raid Powered On 
+22/06/2011 15:57:05,H/W Monitor ,Raid Powered On 
+22/06/2011 15:55:07,H/W Monitor ,Raid Powered On 
+22/06/2011 15:51:42,H/W Monitor ,Raid Powered On 
+,,,,,Received headnode back from Microway
+21/06/2011 20:12:24,Proxy Or Inband ,HTTP Log In 
+21/06/2011 19:47:22,H/W Monitor ,Raid Powered On 
+21/06/2011 19:44:46,H/W Monitor ,Raid Powered On 
+21/06/2011 19:41:17,H/W Monitor ,Raid Powered On 
+21/06/2011 19:39:48,H/W Monitor ,Raid Powered On 
+09/06/2011 20:36:15,H/W Monitor ,Raid Powered On 
+08/06/2011 17:58:54,H/W Monitor ,Raid Powered On 
+08/06/2011 17:44:31,H/W Monitor ,Raid Powered On 
+08/06/2011 17:15:17,H/W Monitor ,Raid Powered On 
+06/06/2011 15:19:23,H/W Monitor ,Raid Powered On 
+24/05/2011 21:53:28,H/W Monitor ,Raid Powered On 
+24/05/2011 21:52:17,RS232 Terminal ,VT100 Log In 
+24/05/2011 21:51:53,H/W Monitor ,Raid Powered On 
+24/05/2011 20:44:06,H/W Monitor ,Raid Powered On 
+24/05/2011 20:41:22,RS232 Terminal ,VT100 Log In 
+24/05/2011 20:40:55,H/W Monitor ,Raid Powered On 
+23/05/2011 22:41:00,H/W Monitor ,Raid Powered On 
+23/05/2011 17:41:22,H/W Monitor ,Raid Powered On 
+23/05/2011 13:50:49,H/W Monitor ,Raid Powered On 
+20/05/2011 21:21:27,H/W Monitor ,Raid Powered On 
+20/05/2011 21:14:54,H/W Monitor ,Raid Powered On 
+20/05/2011 21:13:19,H/W Monitor ,Raid Powered On 
+,,,,,Firmware was flashed by Rick Warner from Microway
+05/04/2011 19:03:02,Proxy Or Inband ,HTTP Log In ,,,Time is wrong. Date is ok. Since when??
+05/04/2011 18:54:38,H/W Monitor ,Raid Powered On 
+05/04/2011 18:53:10,H/W Monitor ,Raid Powered On 
+05/04/2011 18:37:12,H/W Monitor ,Raid Powered On 
+05/04/2011 15:08:31,Proxy Or Inband ,HTTP Log In 
+05/04/2011 13:45:58,Proxy Or Inband ,HTTP Log In 
+05/04/2011 13:33:16,H/W Monitor ,Raid Powered On 
+05/04/2011 13:30:45,RS232 Terminal ,VT100 Log In 
+05/04/2011 11:25:32,R60Vol2-1 ,Complete Rebuild ,12:38:39
+05/04/2011 02:42:58,Enc#3 003 ,Reading Error 
+04/04/2011 22:48:31,RS232 Terminal ,VT100 Log In 
+04/04/2011 22:46:53,R60Vol2-1 ,Start Rebuilding 
+04/04/2011 22:46:53,R60Vol2-1 ,Abort Rebuilding ,00:00:01
+04/04/2011 22:46:53,Raid Set A ,Rebuild RaidSet 
+04/04/2011 22:46:53,Enc#3 009 ,Device Inserted 
+04/04/2011 22:46:51,R60Vol2-1 ,Start Rebuilding 
+04/04/2011 22:46:49,Raid Set A ,Rebuild RaidSet 
+04/04/2011 22:46:49,Enc#3 018 ,Device Inserted 
+04/04/2011 22:32:56,RS232 Terminal ,VT100 Log In 
+04/04/2011 21:16:29,Enc#3 000 ,Device Removed 
+04/04/2011 21:16:28,Raid Set A ,RaidSet Degraded 
+04/04/2011 21:16:26,R60Vol2-1 ,Abort Rebuilding ,00:00:22
+04/04/2011 21:16:26,R60Vol2-1 ,Volume Degraded 
+04/04/2011 21:16:20,Enc#3 000 ,Time Out Error 
+04/04/2011 21:16:04,R60Vol2-1 ,Start Rebuilding 
+04/04/2011 21:16:02,Raid Set A ,Rebuild RaidSet 
+04/04/2011 21:15:59,Enc#3 000 ,Device Inserted 
+04/04/2011 21:15:42,Enc#3 000 ,Device Removed 
+04/04/2011 21:15:42,Raid Set A ,RaidSet Degraded 
+04/04/2011 21:15:40,R60Vol2-1 ,Abort Rebuilding ,00:06:41
+04/04/2011 21:15:40,R60Vol2-1 ,Volume Degraded 
+04/04/2011 21:15:34,Enc#3 000 ,Time Out Error 
+04/04/2011 21:13:58,Enc#3 000 ,Time Out Error 
+04/04/2011 21:08:58,R60Vol2-1 ,Start Rebuilding 
+04/04/2011 21:08:56,Raid Set A ,Rebuild RaidSet 
+04/04/2011 21:08:54,Enc#3 000 ,Device Inserted 
+04/04/2011 21:08:04,Enc#3 000 ,Device Removed 
+04/04/2011 21:08:04,Raid Set A ,RaidSet Degraded 
+04/04/2011 21:08:02,R60Vol2-1 ,Abort Rebuilding ,00:07:01
+04/04/2011 21:08:02,R60Vol2-1 ,Volume Degraded 
+04/04/2011 21:07:56,Enc#3 000 ,Time Out Error 
+04/04/2011 21:07:37,Enc#3 000 ,Time Out Error 
+04/04/2011 21:01:00,R60Vol2-1 ,Start Rebuilding 
+04/04/2011 21:00:58,Raid Set A ,Rebuild RaidSet 
+04/04/2011 21:00:56,Enc#3 000 ,Device Inserted 
+04/04/2011 21:00:44,Enc#3 000 ,Device Removed 
+04/04/2011 21:00:44,Raid Set A ,RaidSet Degraded 
+04/04/2011 21:00:42,R60Vol2-1 ,Abort Rebuilding ,00:01:55
+04/04/2011 21:00:42,R60Vol2-1 ,Volume Degraded 
+04/04/2011 21:00:26,Enc#3 000 ,Time Out Error 
+04/04/2011 20:58:49,RS232 Terminal ,VT100 Log In 
+04/04/2011 20:58:47,R60Vol2-1 ,Start Rebuilding 
+04/04/2011 20:58:45,Raid Set A ,Rebuild RaidSet 
+04/04/2011 20:58:42,Enc#3 000 ,Device Inserted 
+04/04/2011 20:58:31,Enc#3 000 ,Device Removed 
+04/04/2011 20:58:31,Raid Set A ,RaidSet Degraded 
+04/04/2011 20:58:29,R60Vol2-1 ,Abort Rebuilding ,00:01:41
+04/04/2011 20:58:29,R60Vol2-1 ,Volume Degraded 
+04/04/2011 20:58:12,Enc#3 000 ,Time Out Error 
+04/04/2011 20:56:47,R60Vol2-1 ,Start Rebuilding 
+04/04/2011 20:56:45,Raid Set A ,Rebuild RaidSet 
+04/04/2011 20:56:36,Enc#3 000 ,Time Out Error 
+04/04/2011 20:56:22,Enc#3 000 ,Device Inserted 
+04/04/2011 20:53:40,Enc#3 000 ,Device Removed 
+04/04/2011 20:53:36,Raid Set A ,RaidSet Degraded 
+04/04/2011 20:53:34,R60Vol2-1 ,Abort Rebuilding ,07:20:21
+04/04/2011 20:53:34,R60Vol2-1 ,Volume Degraded 
+04/04/2011 20:52:54,RS232 Terminal ,VT100 Log In 
+04/04/2011 16:30:14,RS232 Terminal ,VT100 Log In 
+04/04/2011 13:35:17,Enc#3 000 ,Time Out Error 
+04/04/2011 13:33:13,R60Vol2-1 ,Start Rebuilding 
+04/04/2011 13:33:11,Raid Set A ,Rebuild RaidSet 
+04/04/2011 13:33:08,Enc#3 000 ,Device Inserted 
+04/04/2011 13:32:50,Enc#3 000 ,Device Removed 
+04/04/2011 13:32:50,Raid Set A ,RaidSet Degraded 
+04/04/2011 13:32:48,R60Vol2-1 ,Abort Rebuilding ,00:06:59
+04/04/2011 13:32:48,R60Vol2-1 ,Volume Degraded 
+04/04/2011 13:32:42,Enc#3 000 ,Time Out Error 
+04/04/2011 13:27:04,Enc#3 000 ,Time Out Error 
+04/04/2011 13:25:49,R60Vol2-1 ,Start Rebuilding 
+04/04/2011 13:25:47,Raid Set A ,Rebuild RaidSet 
+04/04/2011 13:25:44,Enc#3 000 ,Device Inserted 
+04/04/2011 13:25:28,Enc#3 000 ,Device Removed 
+04/04/2011 13:25:28,Raid Set A ,RaidSet Degraded 
+04/04/2011 13:25:26,R60Vol2-1 ,Abort Rebuilding ,00:08:51
+04/04/2011 13:25:26,R60Vol2-1 ,Volume Degraded 
+04/04/2011 13:25:20,Enc#3 000 ,Time Out Error 
+04/04/2011 13:16:34,R60Vol2-1 ,Start Rebuilding 
+04/04/2011 13:16:32,Raid Set A ,Rebuild RaidSet 
+04/04/2011 13:16:29,Enc#3 000 ,Device Inserted 
+04/04/2011 13:10:38,Enc#3 000 ,Device Removed 
+04/04/2011 13:10:38,Raid Set A ,RaidSet Degraded 
+04/04/2011 13:10:36,R60Vol2-1 ,Volume Degraded 
+04/04/2011 13:10:30,Enc#3 000 ,Time Out Error 
+04/04/2011 13:09:46,Raid Set OS ,RaidSet Degraded 
+04/04/2011 13:09:44,RAID1 ,Volume Degraded 
+04/04/2011 13:04:57,RS232 Terminal ,VT100 Log In 
+04/04/2011 13:03:33,Incomplete RAID ,Discovered 
+04/04/2011 13:03:31,H/W Monitor ,Raid Powered On 
+01/04/2011 20:47:32,RAID60 ,Abort Rebuilding ,01:06:40
+01/04/2011 20:47:32,RAID60 ,Volume Degraded 
+01/04/2011 20:47:26,Enc#3 000 ,Time Out Error 
+01/04/2011 19:40:52,RAID60 ,Start Rebuilding 
+01/04/2011 19:40:47,Enc#3 000 ,Device Inserted 
+01/04/2011 19:39:42,Incomplete RAID ,Discovered 
+01/04/2011 19:39:41,H/W Monitor ,Raid Powered On 
+01/04/2011 19:23:24,RAID60 ,Stop Rebuilding ,00:06:18
+01/04/2011 19:17:54,Enc#3 018 ,Device Removed 
+01/04/2011 19:17:40,Enc#3 009 ,Device Removed 
+01/04/2011 19:17:05,RAID60 ,Start Rebuilding 
+01/04/2011 19:17:03,Raid Set A ,Rebuild RaidSet 
+01/04/2011 19:17:00,Enc#3 000 ,Device Inserted 
+01/04/2011 19:16:26,RS232 Terminal ,VT100 Log In 
+01/04/2011 19:16:04,Incomplete RAID ,Discovered 
+01/04/2011 19:16:03,H/W Monitor ,Raid Powered On 
+01/04/2011 18:14:10,Enc#3 000 ,Device Removed 
+01/04/2011 18:14:09,Raid Set A ,RaidSet Degraded 
+01/04/2011 18:14:07,R60Vol2-1 ,Volume Degraded 
+01/04/2011 18:14:01,Enc#3 000 ,Time Out Error 
+01/04/2011 18:05:50,RS232 Terminal ,VT100 Log In 
+01/04/2011 13:09:01,RS232 Terminal ,VT100 Log In 
+01/04/2011 06:18:00,R60Vol2-1 ,Complete Rebuild ,15:25:34
+01/04/2011 00:07:56,RS232 Terminal ,VT100 Log In 
+31/03/2011 14:52:25,R60Vol2-1 ,Start Rebuilding 
+31/03/2011 14:52:23,Raid Set A ,Rebuild RaidSet 
+31/03/2011 14:52:20,Enc#3 000 ,Device Inserted 
+31/03/2011 14:51:59,Enc#3 000 ,Device Removed 
+31/03/2011 14:51:59,Raid Set A ,RaidSet Degraded 
+31/03/2011 14:51:57,R60Vol2-1 ,Abort Rebuilding ,00:12:05
+31/03/2011 14:51:57,R60Vol2-1 ,Volume Degraded 
+31/03/2011 14:51:51,Enc#3 000 ,Time Out Error 
+31/03/2011 14:41:36,RS232 Terminal ,VT100 Log In 
+31/03/2011 14:39:51,R60Vol2-1 ,Start Rebuilding 
+31/03/2011 14:39:42,Incomplete RAID ,Discovered 
+31/03/2011 14:39:41,H/W Monitor ,Raid Powered On 
+31/03/2011 14:37:38,Incomplete RAID ,Discovered 
+31/03/2011 14:37:36,H/W Monitor ,Raid Powered On 
+31/03/2011 14:33:31,Incomplete RAID ,Discovered 
+31/03/2011 14:33:29,H/W Monitor ,Raid Powered On 
+31/03/2011 14:31:33,Raid Set A ,Rebuild RaidSet 
+31/03/2011 14:31:31,Enc#3 000 ,Device Inserted 
+31/03/2011 14:30:42,Raid Set A ,Rebuild RaidSet 
+31/03/2011 14:30:42,R60Vol2-1 ,Failed Volume Revived 
+31/03/2011 14:30:42,Incomplete RAID ,Discovered 
+31/03/2011 14:30:41,H/W Monitor ,Raid Powered On 
+31/03/2011 03:27:00,Enc#3 009 ,Device Failed 
+31/03/2011 03:26:57,Enc#3 022 ,Time Out Error 
+31/03/2011 03:26:47,Enc#3 022 ,Time Out Error 
+31/03/2011 03:26:36,Enc#3 011 ,Time Out Error 
+31/03/2011 03:26:26,Enc#3 011 ,Time Out Error 
+31/03/2011 03:26:16,Enc#3 011 ,Time Out Error 
+31/03/2011 03:26:05,Enc#3 011 ,Time Out Error 
+31/03/2011 03:25:55,Enc#3 011 ,Time Out Error 
+31/03/2011 03:25:44,Enc#3 012 ,Time Out Error 
+31/03/2011 03:25:39,Raid Set A ,RaidSet Degraded 
+31/03/2011 03:25:37,R60Vol2-1 ,Volume Failed 
+31/03/2011 03:25:34,Enc#3 009 ,Time Out Error 
+31/03/2011 03:25:23,Enc#3 009 ,Time Out Error 
+31/03/2011 03:25:13,Enc#3 010 ,Time Out Error 
+31/03/2011 03:25:02,Enc#3 010 ,Time Out Error 
+31/03/2011 03:24:52,Enc#3 010 ,Time Out Error 
+31/03/2011 03:24:42,Enc#3 010 ,Time Out Error 
+31/03/2011 03:24:34,Enc#4 015 ,Device Failed 
+31/03/2011 03:24:31,Enc#3 007 ,Time Out Error 
+31/03/2011 03:24:21,Enc#3 007 ,Time Out Error 
+31/03/2011 03:24:16,Raid Set B ,RaidSet Degraded 
+31/03/2011 03:24:14,R60Vol2-2 ,Volume Degraded 
+31/03/2011 03:24:10,Enc#4 015 ,Time Out Error 
+31/03/2011 03:24:00,Enc#4 015 ,Time Out Error 
+31/03/2011 03:23:50,Enc#4 018 ,Time Out Error 
+31/03/2011 03:23:39,Enc#3 010 ,Time Out Error 
+31/03/2011 03:23:29,Enc#3 014 ,Time Out Error 
+31/03/2011 03:23:18,Enc#3 011 ,Time Out Error 
+31/03/2011 03:23:08,Enc#3 011 ,Time Out Error 
+31/03/2011 03:22:58,Enc#3 022 ,Time Out Error 
+31/03/2011 03:22:47,Enc#3 022 ,Time Out Error 
+31/03/2011 03:22:37,Enc#3 002 ,Time Out Error 
+31/03/2011 03:22:26,Enc#3 017 ,Time Out Error 
+31/03/2011 03:22:16,Enc#3 023 ,Time Out Error 
+31/03/2011 03:22:06,Enc#3 023 ,Time Out Error 
+31/03/2011 03:21:55,Enc#4 009 ,Time Out Error 
+31/03/2011 03:21:45,Enc#3 014 ,Time Out Error 
+31/03/2011 03:21:34,Enc#3 014 ,Time Out Error 
+31/03/2011 03:21:24,Enc#3 002 ,Time Out Error 
+31/03/2011 03:21:14,Enc#3 010 ,Time Out Error 
+31/03/2011 03:21:03,Enc#3 008 ,Time Out Error 
+31/03/2011 03:20:53,Enc#3 008 ,Time Out Error 
+31/03/2011 03:20:42,Enc#3 005 ,Time Out Error 
+31/03/2011 03:20:32,Enc#3 011 ,Time Out Error 
+31/03/2011 03:20:22,Enc#3 011 ,Time Out Error 
+31/03/2011 03:20:11,Enc#4 020 ,Time Out Error 
+31/03/2011 03:20:01,Enc#4 014 ,Time Out Error 
+31/03/2011 03:19:50,Enc#3 010 ,Time Out Error 
+31/03/2011 03:19:40,Enc#3 010 ,Time Out Error 
+31/03/2011 03:19:30,Enc#3 022 ,Time Out Error 
+31/03/2011 03:19:19,Enc#3 022 ,Time Out Error 
+31/03/2011 03:19:09,Enc#4 004 ,Time Out Error 
+31/03/2011 03:18:58,Enc#3 015 ,Time Out Error 
+31/03/2011 03:18:48,Enc#3 014 ,Time Out Error 
+31/03/2011 03:18:38,Enc#3 002 ,Time Out Error 
+31/03/2011 03:18:30,Enc#3 001 ,Device Failed 
+31/03/2011 03:18:27,Enc#3 006 ,Time Out Error 
+31/03/2011 03:18:17,Enc#3 006 ,Time Out Error 
+31/03/2011 03:18:10,Raid Set OS ,RaidSet Degraded 
+31/03/2011 03:18:09,Enc#3 000 ,Device Failed 
+31/03/2011 03:18:08,RAID1 ,Volume Failed 
+31/03/2011 03:18:05,Enc#3 001 ,Time Out Error 
+31/03/2011 03:17:54,Enc#3 001 ,Time Out Error 
+31/03/2011 03:17:44,Enc#3 001 ,Time Out Error 
+31/03/2011 03:17:34,Enc#3 001 ,Time Out Error 
+31/03/2011 03:17:23,Enc#3 001 ,Time Out Error 
+31/03/2011 03:17:13,Enc#3 001 ,Time Out Error 
+31/03/2011 03:17:02,Enc#3 001 ,Time Out Error 
+31/03/2011 03:16:52,Enc#3 001 ,Time Out Error 
+31/03/2011 03:16:42,Enc#3 001 ,Time Out Error 
+31/03/2011 03:16:12,Enc#3 001 ,Time Out Error 
+31/03/2011 03:16:01,Enc#3 001 ,Time Out Error 
+31/03/2011 03:15:51,Enc#3 001 ,Time Out Error 
+31/03/2011 03:15:40,Enc#3 001 ,Time Out Error 
+31/03/2011 03:15:30,Enc#3 001 ,Time Out Error 
+31/03/2011 03:15:20,Enc#3 001 ,Time Out Error 
+31/03/2011 03:15:09,Enc#3 001 ,Time Out Error 
+31/03/2011 03:14:59,Enc#3 001 ,Time Out Error 
+31/03/2011 03:14:48,Enc#3 001 ,Time Out Error 
+31/03/2011 03:14:38,Enc#3 001 ,Time Out Error 
+31/03/2011 03:14:28,Enc#3 001 ,Time Out Error 
+31/03/2011 03:14:17,Enc#3 001 ,Time Out Error 
+31/03/2011 03:14:07,Enc#3 001 ,Time Out Error 
+31/03/2011 03:13:56,Enc#3 001 ,Time Out Error 
+31/03/2011 03:13:45,Enc#3 001 ,Time Out Error 
+31/03/2011 03:13:35,Enc#3 001 ,Time Out Error 
+31/03/2011 03:13:24,Enc#3 001 ,Time Out Error 
+31/03/2011 03:13:14,Enc#3 001 ,Time Out Error 
+31/03/2011 03:13:03,Enc#3 001 ,Time Out Error 
+31/03/2011 03:12:53,Enc#3 001 ,Time Out Error 
+31/03/2011 03:12:42,Enc#3 001 ,Time Out Error 
+31/03/2011 03:12:36,Raid Set OS ,RaidSet Degraded 
+31/03/2011 03:12:34,RAID1 ,Volume Degraded 
+31/03/2011 03:12:30,Enc#3 000 ,Time Out Error 
+31/03/2011 03:12:20,Enc#3 000 ,Time Out Error 
+31/03/2011 03:12:10,Enc#3 001 ,Time Out Error 
+31/03/2011 03:11:59,Enc#3 001 ,Time Out Error 
+31/03/2011 03:11:49,Enc#3 000 ,Time Out Error 
+31/03/2011 03:11:38,Enc#3 001 ,Time Out Error 
+31/03/2011 03:11:28,Enc#3 000 ,Time Out Error 
+31/03/2011 03:11:18,Enc#4 020 ,Time Out Error 
+31/03/2011 03:11:08,Enc#4 018 ,Time Out Error 
+31/03/2011 03:10:58,Enc#4 018 ,Time Out Error 
+31/03/2011 03:10:47,Enc#4 002 ,Time Out Error 
+31/03/2011 03:10:37,Enc#4 012 ,Time Out Error 
+31/03/2011 03:10:26,Enc#4 012 ,Time Out Error 
+31/03/2011 03:10:18,Enc#3 018 ,Device Failed 
+31/03/2011 03:10:16,Enc#3 023 ,Time Out Error 
+31/03/2011 03:10:11,Raid Set A ,RaidSet Degraded 
+31/03/2011 03:10:09,R60Vol2-1 ,Volume Degraded ,,,Log between March 24th and March 31st has been lost. It has been captured in picture though:
+31/03/2011 03:10:00,Enc#3 018 ,Time Out Error ,,,http://mysite.science.uottawa.ca/nbiga058/microway/20110331_Failure/ArecaLogs/IMG_2011-03-31_10.49.47.700.jpg
+31/03/2011 03:09:50,Enc#3 018 ,Time Out Error ,,,http://mysite.science.uottawa.ca/nbiga058/microway/20110331_Failure/ArecaLogs/IMG_2011-03-31_10.49.52.727.jpg
+31/03/2011 03:09:40,Enc#3 012 ,Time Out Error ,,,http://mysite.science.uottawa.ca/nbiga058/microway/20110331_Failure/ArecaLogs/IMG_2011-03-31_10.50.01.732.jpg
+31/03/2011 03:09:29,Enc#3 005 ,Time Out Error ,,,http://mysite.science.uottawa.ca/nbiga058/microway/20110331_Failure/ArecaLogs/IMG_2011-03-31_10.50.09.745.jpg
+31/03/2011 03:09:19,Enc#3 021 ,Time Out Error ,,,http://mysite.science.uottawa.ca/nbiga058/microway/20110331_Failure/ArecaLogs/IMG_2011-03-31_10.50.14.971.jpg
+31/03/2011 03:09:08,Enc#3 021 ,Time Out Error ,,,http://mysite.science.uottawa.ca/nbiga058/microway/20110331_Failure/ArecaLogs/IMG_2011-03-31_10.50.21.333.jpg
+,,,,,Major disks failure
+24/03/2011 14:25:54,Proxy Or Inband ,HTTP Log In 
+16/03/2011 08:12:43,Proxy Or Inband ,HTTP Log In 
+13/03/2011 23:05:24,Enc#4 011 ,Reading Error 
+18/02/2011 10:13:33,Proxy Or Inband ,HTTP Log In 
+07/02/2011 19:59:17,Proxy Or Inband ,HTTP Log In 
+07/02/2011 19:59:16,Proxy Or Inband ,HTTP Log In 
+07/02/2011 19:59:16,Proxy Or Inband ,HTTP Log In 
+07/02/2011 19:59:15,Proxy Or Inband ,HTTP Log In 
+07/02/2011 19:59:15,Proxy Or Inband ,HTTP Log In 
+07/02/2011 19:59:14,Proxy Or Inband ,HTTP Log In 
+07/02/2011 19:59:11,Proxy Or Inband,HTTP Log In
+07/02/2011 19:59:10,Proxy Or Inband,HTTP Log In
+07/02/2011 19:59:10,Proxy Or Inband,HTTP Log In
+07/02/2011 19:59:09,Proxy Or Inband,HTTP Log In
+07/02/2011 19:59:08,Proxy Or Inband,HTTP Log In
+07/02/2011 19:59:07,Proxy Or Inband,HTTP Log In
+07/02/2011 20:02:32,Proxy Or Inband,HTTP Log In
+07/02/2011 20:02:31,Proxy Or Inband,HTTP Log In
+07/02/2011 20:02:31,Proxy Or Inband,HTTP Log In
+07/02/2011 20:02:31,Proxy Or Inband,HTTP Log In
+07/02/2011 20:02:30,Proxy Or Inband,HTTP Log In
+07/02/2011 20:02:30,Proxy Or Inband,HTTP Log In
+07/02/2011 20:02:30,Proxy Or Inband,HTTP Log In
+07/02/2011 20:02:30,Proxy Or Inband,HTTP Log In
+07/02/2011 20:02:29,Proxy Or Inband,HTTP Log In
+07/02/2011 20:02:29,Proxy Or Inband,HTTP Log In
+07/02/2011 20:02:29,Proxy Or Inband,HTTP Log In
+07/02/2011 20:02:28,Proxy Or Inband,HTTP Log In
+07/02/2011 20:02:27,Proxy Or Inband,HTTP Log In
+07/02/2011 20:02:27,Proxy Or Inband,HTTP Log In
+07/02/2011 20:02:27,Proxy Or Inband,HTTP Log In
+07/02/2011 20:02:25,Proxy Or Inband,HTTP Log In
+07/02/2011 20:02:25,Proxy Or Inband,HTTP Log In
+07/02/2011 20:02:25,Proxy Or Inband,HTTP Log In
+03/02/2011 15:54:21, R60Vol2-1,Complete Rebuild,25:57:24
+03/02/2011 00:22:06,Enc#3 003,Reading Error
+02/02/2011 13:56:56, R60Vol2-1,Start Rebuilding
+02/02/2011 13:56:54,Raid Set A,Rebuild RaidSet
+02/02/2011 13:56:54,Enc#3 007,Device Inserted
+02/02/2011 13:51:19,Enc#3 007,Device Removed,,,Drive changed by NB and KB
+02/02/2011 13:50:23,Proxy Or Inband,HTTP Log In
+02/02/2011 13:41:19,Proxy Or Inband,HTTP Log In
+31/01/2011 12:05:57,Enc#4 002,Time Out Error
+21/01/2011 18:52:20, R60Vol2-1,Complete Rebuild,17:41:09
+21/01/2011 18:20:52,Enc#3 007,Device Failed
+21/01/2011 18:20:51,Raid Set A,RaidSet Degraded
+21/01/2011 18:20:49, R60Vol2-1,Volume Degraded
+21/01/2011 18:20:48,Enc#3 007,Reading Error
+21/01/2011 18:20:42,Enc#3 007,Time Out Error
+21/01/2011 18:20:20,Enc#3 007,Reading Error
+21/01/2011 18:20:15,Enc#3 007,Time Out Error
+21/01/2011 18:19:52,Enc#3 007,Reading Error
+21/01/2011 18:19:47,Enc#3 007,Time Out Error
+21/01/2011 18:19:35,Enc#3 007,Reading Error
+21/01/2011 18:19:28,Enc#3 007,Reading Error
+21/01/2011 18:19:22,Enc#3 007,Time Out Error
+21/01/2011 09:29:06,Proxy Or Inband,HTTP Log In
+21/01/2011 01:13:23,Enc#3 018,Reading Error
+21/01/2011 01:13:18,Enc#3 018,Time Out Error
+21/01/2011 01:11:21, R60Vol2-1,Start Rebuilding
+21/01/2011 01:11:19,Raid Set A,Rebuild RaidSet
+21/01/2011 01:11:19,Enc#3 003,Device Inserted
+21/01/2011 01:11:17,Enc#3 019,Time Out Error
+10/01/2011 14:42:22,Proxy Or Inband,HTTP Log In
+08/01/2011 21:54:11,Proxy Or Inband,HTTP Log In
+05/01/2011 22:07:03,Enc#3 003,Device Removed
+05/01/2011 22:07:03,Raid Set A,RaidSet Degraded
+05/01/2011 22:07:01, R60Vol2-1,Volume Degraded
+05/01/2011 22:06:59,Enc#3 003,Time Out Error
+05/01/2011 22:06:49,Enc#3 003,Time Out Error
+27/12/2010 05:10:47,Enc#3 003,Reading Error
+27/12/2010 05:10:42,Enc#3 003,Time Out Error
+27/12/2010 04:54:31,Enc#3 003,Time Out Error
+27/12/2010 00:38:30,Enc#3 003,Reading Error
+27/12/2010 00:38:24,Enc#3 003,Time Out Error
+26/12/2010 22:15:57,Enc#3 003,Reading Error
+26/12/2010 22:15:52,Enc#3 003,Time Out Error
+26/12/2010 22:01:53,Enc#3 003,Time Out Error
+25/12/2010 15:57:01,Enc#3 003,Reading Error
+25/12/2010 15:56:56,Enc#3 003,Time Out Error
+25/12/2010 14:26:58,Enc#3 003,Time Out Error
+24/12/2010 22:48:07,Enc#3 003,Time Out Error
+24/12/2010 07:47:55,Enc#3 003,Reading Error
+24/12/2010 07:47:49,Enc#3 003,Time Out Error
+23/12/2010 13:53:34,RAID1,Complete Rebuild,03:24:42
+23/12/2010 11:01:26,Proxy Or Inband,HTTP Log In
+23/12/2010 11:01:24,Proxy Or Inband,HTTP Log In
+23/12/2010 11:01:23,Proxy Or Inband,HTTP Log In
+23/12/2010 11:01:23,Proxy Or Inband,HTTP Log In
+23/12/2010 11:01:22,Proxy Or Inband,HTTP Log In
+23/12/2010 11:01:22,Proxy Or Inband,HTTP Log In
+23/12/2010 11:01:21,Proxy Or Inband,HTTP Log In
+23/12/2010 11:01:20,Proxy Or Inband,HTTP Log In
+23/12/2010 11:01:19,Proxy Or Inband,HTTP Log In
+23/12/2010 11:01:18,Proxy Or Inband,HTTP Log In
+23/12/2010 11:01:17,Proxy Or Inband,HTTP Log In
+23/12/2010 11:01:16,Proxy Or Inband,HTTP Log In
+23/12/2010 11:01:16,Proxy Or Inband,HTTP Log In
+23/12/2010 11:01:16,Proxy Or Inband,HTTP Log In
+23/12/2010 11:01:16,Proxy Or Inband,HTTP Log In
+23/12/2010 11:01:15,Proxy Or Inband,HTTP Log In
+23/12/2010 11:01:15,Proxy Or Inband,HTTP Log In
+23/12/2010 11:01:15,Proxy Or Inband,HTTP Log In
+23/12/2010 11:01:15,Proxy Or Inband,HTTP Log In
+23/12/2010 11:01:14,Proxy Or Inband,HTTP Log In
+23/12/2010 11:01:14,Proxy Or Inband,HTTP Log In
+23/12/2010 11:01:14,Proxy Or Inband,HTTP Log In
+23/12/2010 11:01:13,Proxy Or Inband,HTTP Log In
+23/12/2010 11:01:13,Proxy Or Inband,HTTP Log In
+23/12/2010 11:01:12,Proxy Or Inband,HTTP Log In
+23/12/2010 11:01:11,Proxy Or Inband,HTTP Log In
+23/12/2010 11:01:11,Proxy Or Inband,HTTP Log In
+23/12/2010 11:01:09,Proxy Or Inband,HTTP Log In
+23/12/2010 11:01:09,Proxy Or Inband,HTTP Log In
+23/12/2010 10:45:50,Proxy Or Inband,HTTP Log In
+23/12/2010 10:45:49,Proxy Or Inband,HTTP Log In
+23/12/2010 10:45:47,Proxy Or Inband,HTTP Log In
+23/12/2010 10:45:46,Proxy Or Inband,HTTP Log In
+23/12/2010 10:45:45,Proxy Or Inband,HTTP Log In
+23/12/2010 10:45:45,Proxy Or Inband,HTTP Log In
+23/12/2010 10:45:33,Proxy Or Inband,HTTP Log In
+23/12/2010 10:45:32,Proxy Or Inband,HTTP Log In
+23/12/2010 10:45:32,Proxy Or Inband,HTTP Log In
+23/12/2010 10:45:31,Proxy Or Inband,HTTP Log In
+23/12/2010 10:45:31,Proxy Or Inband,HTTP Log In
+23/12/2010 10:45:30,Proxy Or Inband,HTTP Log In
+23/12/2010 10:45:30,Proxy Or Inband,HTTP Log In
+23/12/2010 10:45:19,Proxy Or Inband,HTTP Log In
+23/12/2010 10:45:18,Proxy Or Inband,HTTP Log In
+23/12/2010 10:45:17,Proxy Or Inband,HTTP Log In
+23/12/2010 10:45:16,Proxy Or Inband,HTTP Log In
+23/12/2010 10:45:16,Proxy Or Inband,HTTP Log In
+23/12/2010 10:45:15,Proxy Or Inband,HTTP Log In
+23/12/2010 10:40:40,Proxy Or Inband,HTTP Log In
+23/12/2010 10:40:39,Proxy Or Inband,HTTP Log In
+23/12/2010 10:40:38,Proxy Or Inband,HTTP Log In
+23/12/2010 10:40:37,Proxy Or Inband,HTTP Log In
+23/12/2010 10:40:37,Proxy Or Inband,HTTP Log In
+23/12/2010 10:40:37,Proxy Or Inband,HTTP Log In
+23/12/2010 10:40:28,Proxy Or Inband,HTTP Log In
+23/12/2010 10:40:25,Proxy Or Inband,HTTP Log In
+23/12/2010 10:40:25,Proxy Or Inband,HTTP Log In
+23/12/2010 10:40:25,Proxy Or Inband,HTTP Log In
+23/12/2010 10:40:25,Proxy Or Inband,HTTP Log In
+23/12/2010 10:40:24,Proxy Or Inband,HTTP Log In
+23/12/2010 10:40:24,Proxy Or Inband,HTTP Log In
+23/12/2010 10:40:24,Proxy Or Inband,HTTP Log In
+23/12/2010 10:40:24,Proxy Or Inband,HTTP Log In
+23/12/2010 10:40:23,Proxy Or Inband,HTTP Log In
+23/12/2010 10:40:20,Proxy Or Inband,HTTP Log In
+23/12/2010 10:40:20,Proxy Or Inband,HTTP Log In
+23/12/2010 10:40:19,Proxy Or Inband,HTTP Log In
+23/12/2010 10:40:17,Proxy Or Inband,HTTP Log In
+23/12/2010 10:40:17,Proxy Or Inband,HTTP Log In
+23/12/2010 10:40:17,Proxy Or Inband,HTTP Log In
+23/12/2010 10:40:15,Proxy Or Inband,HTTP Log In
+23/12/2010 10:40:15,Proxy Or Inband,HTTP Log In
+23/12/2010 10:28:51,RAID1,Start Rebuilding
+23/12/2010 10:28:49,Raid Set OS,Rebuild RaidSet
+23/12/2010 10:28:49,Enc#3 001,Device Inserted
+23/12/2010 10:24:19,Enc#3 001,Device Removed
+23/12/2010 10:24:19,Raid Set OS,RaidSet Degraded
+23/12/2010 10:24:17,RAID1,Volume Degraded,,,The second OS's drive (1TB) was replaced with a new 500GB by Eddie
+23/12/2010 09:56:42,Proxy Or Inband,HTTP Log In
+23/12/2010 09:56:41,Proxy Or Inband,HTTP Log In
+23/12/2010 09:56:40,Proxy Or Inband,HTTP Log In
+23/12/2010 09:56:39,Proxy Or Inband,HTTP Log In
+23/12/2010 09:56:38,Proxy Or Inband,HTTP Log In
+23/12/2010 09:56:32,Proxy Or Inband,HTTP Log In
+23/12/2010 09:56:31,Proxy Or Inband,HTTP Log In
+23/12/2010 09:56:30,Proxy Or Inband,HTTP Log In
+23/12/2010 09:56:28,Proxy Or Inband,HTTP Log In
+23/12/2010 09:56:27,Proxy Or Inband,HTTP Log In
+23/12/2010 09:56:26,Proxy Or Inband,HTTP Log In
+23/12/2010 09:56:25,Proxy Or Inband,HTTP Log In
+23/12/2010 09:56:24,Proxy Or Inband,HTTP Log In
+23/12/2010 09:56:21,Proxy Or Inband,HTTP Log In
+23/12/2010 09:56:20,Proxy Or Inband,HTTP Log In
+23/12/2010 09:56:19,Proxy Or Inband,HTTP Log In
+23/12/2010 09:56:19,Proxy Or Inband,HTTP Log In
+23/12/2010 09:56:18,Proxy Or Inband,HTTP Log In
+23/12/2010 09:56:16,Proxy Or Inband,HTTP Log In
+23/12/2010 09:56:16,Proxy Or Inband,HTTP Log In
+23/12/2010 09:56:15,Proxy Or Inband,HTTP Log In
+23/12/2010 09:56:14,Proxy Or Inband,HTTP Log In
+23/12/2010 09:56:03,Proxy Or Inband,HTTP Log In
+23/12/2010 09:56:02,Proxy Or Inband,HTTP Log In
+23/12/2010 09:56:01,Proxy Or Inband,HTTP Log In
+23/12/2010 09:56:01,Proxy Or Inband,HTTP Log In
+23/12/2010 09:56:00,Proxy Or Inband,HTTP Log In
+23/12/2010 09:56:00,Proxy Or Inband,HTTP Log In
+23/12/2010 09:55:59,Proxy Or Inband,HTTP Log In
+23/12/2010 09:55:58,Proxy Or Inband,HTTP Log In
+23/12/2010 09:55:57,Proxy Or Inband,HTTP Log In
+23/12/2010 09:55:57,Proxy Or Inband,HTTP Log In
+23/12/2010 09:55:57,Proxy Or Inband,HTTP Log In
+23/12/2010 09:55:55,Proxy Or Inband,HTTP Log In
+23/12/2010 09:55:54,Proxy Or Inband,HTTP Log In
+23/12/2010 09:55:53,Proxy Or Inband,HTTP Log In
+23/12/2010 09:55:53,Proxy Or Inband,HTTP Log In
+23/12/2010 09:55:51,Proxy Or Inband,HTTP Log In
+23/12/2010 09:55:50,Proxy Or Inband,HTTP Log In
+23/12/2010 09:55:49,Proxy Or Inband,HTTP Log In
+23/12/2010 09:55:49,Proxy Or Inband,HTTP Log In
+23/12/2010 09:55:49,Proxy Or Inband,HTTP Log In
+23/12/2010 09:55:45,Proxy Or Inband,HTTP Log In
+23/12/2010 09:55:44,Proxy Or Inband,HTTP Log In
+23/12/2010 09:55:43,Proxy Or Inband,HTTP Log In
+23/12/2010 09:55:42,Proxy Or Inband,HTTP Log In
+23/12/2010 09:55:42,Proxy Or Inband,HTTP Log In
+23/12/2010 09:55:42,Proxy Or Inband,HTTP Log In
+23/12/2010 09:55:37,Proxy Or Inband,HTTP Log In
+23/12/2010 09:55:37,Proxy Or Inband,HTTP Log In
+23/12/2010 09:55:36,Proxy Or Inband,HTTP Log In
+23/12/2010 09:55:36,Proxy Or Inband,HTTP Log In
+23/12/2010 09:55:35,Proxy Or Inband,HTTP Log In
+23/12/2010 09:55:35,Proxy Or Inband,HTTP Log In
+23/12/2010 09:55:30,Proxy Or Inband,HTTP Log In
+23/12/2010 09:55:27,Proxy Or Inband,HTTP Log In
+23/12/2010 09:55:26,Proxy Or Inband,HTTP Log In
+23/12/2010 09:55:25,Proxy Or Inband,HTTP Log In
+23/12/2010 09:55:24,Proxy Or Inband,HTTP Log In
+23/12/2010 09:55:24,Proxy Or Inband,HTTP Log In
+23/12/2010 09:55:24,Proxy Or Inband,HTTP Log In
+23/12/2010 09:55:24,Proxy Or Inband,HTTP Log In
+23/12/2010 09:55:23,Proxy Or Inband,HTTP Log In
+23/12/2010 09:55:23,Proxy Or Inband,HTTP Log In
+23/12/2010 09:55:22,Proxy Or Inband,HTTP Log In
+23/12/2010 09:55:22,Proxy Or Inband,HTTP Log In
+23/12/2010 09:55:22,Proxy Or Inband,HTTP Log In
+23/12/2010 09:55:22,Proxy Or Inband,HTTP Log In
+23/12/2010 09:55:21,Proxy Or Inband,HTTP Log In
+23/12/2010 09:55:20,Proxy Or Inband,HTTP Log In
+23/12/2010 09:55:19,Proxy Or Inband,HTTP Log In
+23/12/2010 09:55:19,Proxy Or Inband,HTTP Log In
+23/12/2010 09:26:52,Proxy Or Inband,HTTP Log In
+23/12/2010 09:26:51,Proxy Or Inband,HTTP Log In
+23/12/2010 09:26:50,Proxy Or Inband,HTTP Log In
+23/12/2010 09:26:50,Proxy Or Inband,HTTP Log In
+23/12/2010 09:26:49,Proxy Or Inband,HTTP Log In
+23/12/2010 09:26:46,Proxy Or Inband,HTTP Log In
+23/12/2010 09:26:45,Proxy Or Inband,HTTP Log In
+23/12/2010 09:26:44,Proxy Or Inband,HTTP Log In
+23/12/2010 09:26:09,Proxy Or Inband,HTTP Log In
+23/12/2010 09:26:08,Proxy Or Inband,HTTP Log In
+23/12/2010 09:26:08,Proxy Or Inband,HTTP Log In
+23/12/2010 09:26:08,Proxy Or Inband,HTTP Log In
+23/12/2010 09:26:08,Proxy Or Inband,HTTP Log In
+23/12/2010 09:26:07,Proxy Or Inband,HTTP Log In
+23/12/2010 09:26:07,Proxy Or Inband,HTTP Log In
+23/12/2010 09:26:05,Proxy Or Inband,HTTP Log In
+23/12/2010 09:26:04,Proxy Or Inband,HTTP Log In
+23/12/2010 09:26:15,Proxy Or Inband,HTTP Log In
+23/12/2010 09:26:14,Proxy Or Inband,HTTP Log In
+23/12/2010 09:26:14,Proxy Or Inband,HTTP Log In
+23/12/2010 09:26:14,Proxy Or Inband,HTTP Log In
+23/12/2010 09:26:14,Proxy Or Inband,HTTP Log In
+23/12/2010 09:26:13,Proxy Or Inband,HTTP Log In
+23/12/2010 09:26:13,Proxy Or Inband,HTTP Log In
+23/12/2010 09:26:13,Proxy Or Inband,HTTP Log In
+23/12/2010 09:26:12,Proxy Or Inband,HTTP Log In
+23/12/2010 09:26:11,Proxy Or Inband,HTTP Log In
+23/12/2010 09:26:11,Proxy Or Inband,HTTP Log In
+23/12/2010 08:46:44,Proxy Or Inband,HTTP Log In
+22/12/2010 18:12:09,RAID1,Complete Rebuild,03:23:12
+22/12/2010 17:36:39,Proxy Or Inband,HTTP Log In
+22/12/2010 17:36:38,Proxy Or Inband,HTTP Log In
+22/12/2010 17:36:37,Proxy Or Inband,HTTP Log In
+22/12/2010 17:36:36,Proxy Or Inband,HTTP Log In
+22/12/2010 17:36:36,Proxy Or Inband,HTTP Log In
+22/12/2010 17:36:24,Proxy Or Inband,HTTP Log In
+22/12/2010 17:36:23,Proxy Or Inband,HTTP Log In
+22/12/2010 17:36:22,Proxy Or Inband,HTTP Log In
+22/12/2010 17:36:21,Proxy Or Inband,HTTP Log In
+22/12/2010 17:36:20,Proxy Or Inband,HTTP Log In
+22/12/2010 17:36:20,Proxy Or Inband,HTTP Log In
+22/12/2010 17:36:06,Proxy Or Inband,HTTP Log In
+22/12/2010 17:36:05,Proxy Or Inband,HTTP Log In
+22/12/2010 17:36:04,Proxy Or Inband,HTTP Log In
+22/12/2010 17:36:03,Proxy Or Inband,HTTP Log In
+22/12/2010 17:36:02,Proxy Or Inband,HTTP Log In
+22/12/2010 17:35:50,Proxy Or Inband,HTTP Log In
+22/12/2010 17:35:49,Proxy Or Inband,HTTP Log In
+22/12/2010 17:35:48,Proxy Or Inband,HTTP Log In
+22/12/2010 17:35:47,Proxy Or Inband,HTTP Log In
+22/12/2010 17:35:46,Proxy Or Inband,HTTP Log In
+22/12/2010 17:35:46,Proxy Or Inband,HTTP Log In
+22/12/2010 17:35:34,Proxy Or Inband,HTTP Log In
+22/12/2010 17:35:33,Proxy Or Inband,HTTP Log In
+22/12/2010 17:35:31,Proxy Or Inband,HTTP Log In
+22/12/2010 17:35:30,Proxy Or Inband,HTTP Log In
+22/12/2010 17:35:30,Proxy Or Inband,HTTP Log In
+22/12/2010 17:35:17,Proxy Or Inband,HTTP Log In
+22/12/2010 17:35:15,Proxy Or Inband,HTTP Log In
+22/12/2010 17:35:14,Proxy Or Inband,HTTP Log In
+22/12/2010 17:35:13,Proxy Or Inband,HTTP Log In
+22/12/2010 17:35:12,Proxy Or Inband,HTTP Log In
+22/12/2010 17:35:01,Proxy Or Inband,HTTP Log In
+22/12/2010 17:34:58,Proxy Or Inband,HTTP Log In
+22/12/2010 17:34:57,Proxy Or Inband,HTTP Log In
+22/12/2010 17:34:56,Proxy Or Inband,HTTP Log In
+22/12/2010 17:34:55,Proxy Or Inband,HTTP Log In
+22/12/2010 17:34:54,Proxy Or Inband,HTTP Log In
+22/12/2010 17:34:54,Proxy Or Inband,HTTP Log In
+22/12/2010 17:34:32,Proxy Or Inband,HTTP Log In
+22/12/2010 17:34:32,Proxy Or Inband,HTTP Log In
+22/12/2010 17:34:31,Proxy Or Inband,HTTP Log In
+22/12/2010 17:34:30,Proxy Or Inband,HTTP Log In
+22/12/2010 17:34:29,Proxy Or Inband,HTTP Log In
+22/12/2010 17:34:28,Proxy Or Inband,HTTP Log In
+22/12/2010 17:34:17,Proxy Or Inband,HTTP Log In
+22/12/2010 17:34:16,Proxy Or Inband,HTTP Log In
+22/12/2010 17:34:15,Proxy Or Inband,HTTP Log In
+22/12/2010 17:34:14,Proxy Or Inband,HTTP Log In
+22/12/2010 17:34:13,Proxy Or Inband,HTTP Log In
+22/12/2010 17:34:12,Proxy Or Inband,HTTP Log In
+22/12/2010 17:34:11,Proxy Or Inband,HTTP Log In
+22/12/2010 17:34:00,Proxy Or Inband,HTTP Log In
+22/12/2010 17:33:59,Proxy Or Inband,HTTP Log In
+22/12/2010 17:33:58,Proxy Or Inband,HTTP Log In
+22/12/2010 17:33:56,Proxy Or Inband,HTTP Log In
+22/12/2010 17:33:56,Proxy Or Inband,HTTP Log In
+22/12/2010 17:33:45,Proxy Or Inband,HTTP Log In
+22/12/2010 17:33:44,Proxy Or Inband,HTTP Log In
+22/12/2010 17:33:43,Proxy Or Inband,HTTP Log In
+22/12/2010 17:33:42,Proxy Or Inband,HTTP Log In
+22/12/2010 17:33:41,Proxy Or Inband,HTTP Log In
+22/12/2010 17:33:40,Proxy Or Inband,HTTP Log In
+22/12/2010 17:33:39,Proxy Or Inband,HTTP Log In
+22/12/2010 17:33:24,Proxy Or Inband,HTTP Log In
+22/12/2010 17:33:23,Proxy Or Inband,HTTP Log In
+22/12/2010 17:33:22,Proxy Or Inband,HTTP Log In
+22/12/2010 17:33:21,Proxy Or Inband,HTTP Log In
+22/12/2010 17:33:21,Proxy Or Inband,HTTP Log In
+22/12/2010 17:33:10,Proxy Or Inband,HTTP Log In
+22/12/2010 17:33:09,Proxy Or Inband,HTTP Log In
+22/12/2010 17:33:07,Proxy Or Inband,HTTP Log In
+22/12/2010 17:33:06,Proxy Or Inband,HTTP Log In
+22/12/2010 17:33:04,Proxy Or Inband,HTTP Log In
+22/12/2010 17:33:03,Proxy Or Inband,HTTP Log In
+22/12/2010 17:33:03,Proxy Or Inband,HTTP Log In
+22/12/2010 17:32:51,Proxy Or Inband,HTTP Log In
+22/12/2010 17:32:50,Proxy Or Inband,HTTP Log In
+22/12/2010 17:32:49,Proxy Or Inband,HTTP Log In
+22/12/2010 17:32:48,Proxy Or Inband,HTTP Log In
+22/12/2010 17:32:47,Proxy Or Inband,HTTP Log In
+22/12/2010 17:32:45,Proxy Or Inband,HTTP Log In
+22/12/2010 17:32:44,Proxy Or Inband,HTTP Log In
+22/12/2010 17:32:33,Proxy Or Inband,HTTP Log In
+22/12/2010 17:32:32,Proxy Or Inband,HTTP Log In
+22/12/2010 17:32:31,Proxy Or Inband,HTTP Log In
+22/12/2010 17:32:30,Proxy Or Inband,HTTP Log In
+22/12/2010 17:32:29,Proxy Or Inband,HTTP Log In
+22/12/2010 17:32:28,Proxy Or Inband,HTTP Log In
+22/12/2010 17:32:28,Proxy Or Inband,HTTP Log In
+22/12/2010 17:32:16,Proxy Or Inband,HTTP Log In
+22/12/2010 17:32:15,Proxy Or Inband,HTTP Log In
+22/12/2010 17:32:14,Proxy Or Inband,HTTP Log In
+22/12/2010 17:32:13,Proxy Or Inband,HTTP Log In
+22/12/2010 17:32:11,Proxy Or Inband,HTTP Log In
+22/12/2010 17:32:10,Proxy Or Inband,HTTP Log In
+22/12/2010 17:32:10,Proxy Or Inband,HTTP Log In
+22/12/2010 17:31:59,Proxy Or Inband,HTTP Log In
+22/12/2010 17:31:58,Proxy Or Inband,HTTP Log In
+22/12/2010 17:31:57,Proxy Or Inband,HTTP Log In
+22/12/2010 17:31:56,Proxy Or Inband,HTTP Log In
+22/12/2010 17:31:55,Proxy Or Inband,HTTP Log In
+22/12/2010 17:31:54,Proxy Or Inband,HTTP Log In
+22/12/2010 17:31:54,Proxy Or Inband,HTTP Log In
+22/12/2010 17:31:42,Proxy Or Inband,HTTP Log In
+22/12/2010 17:31:41,Proxy Or Inband,HTTP Log In
+22/12/2010 17:31:40,Proxy Or Inband,HTTP Log In
+22/12/2010 17:31:39,Proxy Or Inband,HTTP Log In
+22/12/2010 17:31:38,Proxy Or Inband,HTTP Log In
+22/12/2010 17:31:37,Proxy Or Inband,HTTP Log In
+22/12/2010 17:31:25,Proxy Or Inband,HTTP Log In
+22/12/2010 17:31:24,Proxy Or Inband,HTTP Log In
+22/12/2010 17:31:23,Proxy Or Inband,HTTP Log In
+22/12/2010 17:31:22,Proxy Or Inband,HTTP Log In
+22/12/2010 17:31:21,Proxy Or Inband,HTTP Log In
+22/12/2010 17:31:20,Proxy Or Inband,HTTP Log In
+22/12/2010 17:31:19,Proxy Or Inband,HTTP Log In
+22/12/2010 17:31:08,Proxy Or Inband,HTTP Log In
+22/12/2010 17:31:07,Proxy Or Inband,HTTP Log In
+22/12/2010 17:31:05,Proxy Or Inband,HTTP Log In
+22/12/2010 17:31:04,Proxy Or Inband,HTTP Log In
+22/12/2010 17:31:03,Proxy Or Inband,HTTP Log In
+22/12/2010 17:31:01,Proxy Or Inband,HTTP Log In
+22/12/2010 17:30:49,Proxy Or Inband,HTTP Log In
+22/12/2010 17:30:48,Proxy Or Inband,HTTP Log In
+22/12/2010 17:30:47,Proxy Or Inband,HTTP Log In
+22/12/2010 17:30:46,Proxy Or Inband,HTTP Log In
+22/12/2010 17:30:45,Proxy Or Inband,HTTP Log In
+22/12/2010 17:30:45,Proxy Or Inband,HTTP Log In
+22/12/2010 17:30:33,Proxy Or Inband,HTTP Log In
+22/12/2010 17:30:33,Proxy Or Inband,HTTP Log In
+22/12/2010 17:30:32,Proxy Or Inband,HTTP Log In
+22/12/2010 17:30:31,Proxy Or Inband,HTTP Log In
+22/12/2010 17:30:27,Proxy Or Inband,HTTP Log In
+22/12/2010 17:30:27,Proxy Or Inband,HTTP Log In
+22/12/2010 17:30:16,Proxy Or Inband,HTTP Log In
+22/12/2010 17:30:15,Proxy Or Inband,HTTP Log In
+22/12/2010 17:30:14,Proxy Or Inband,HTTP Log In
+22/12/2010 17:30:13,Proxy Or Inband,HTTP Log In
+22/12/2010 17:30:12,Proxy Or Inband,HTTP Log In
+22/12/2010 17:30:11,Proxy Or Inband,HTTP Log In
+22/12/2010 17:30:11,Proxy Or Inband,HTTP Log In
+22/12/2010 17:30:00,Proxy Or Inband,HTTP Log In
+22/12/2010 17:29:59,Proxy Or Inband,HTTP Log In
+22/12/2010 17:29:58,Proxy Or Inband,HTTP Log In
+22/12/2010 17:29:57,Proxy Or Inband,HTTP Log In
+22/12/2010 17:29:56,Proxy Or Inband,HTTP Log In
+22/12/2010 17:29:55,Proxy Or Inband,HTTP Log In
+22/12/2010 17:29:43,Proxy Or Inband,HTTP Log In
+22/12/2010 17:29:42,Proxy Or Inband,HTTP Log In
+22/12/2010 17:29:41,Proxy Or Inband,HTTP Log In
+22/12/2010 17:29:40,Proxy Or Inband,HTTP Log In
+22/12/2010 17:29:39,Proxy Or Inband,HTTP Log In
+22/12/2010 17:29:39,Proxy Or Inband,HTTP Log In
+22/12/2010 17:29:24,Proxy Or Inband,HTTP Log In
+22/12/2010 17:29:23,Proxy Or Inband,HTTP Log In
+22/12/2010 17:29:22,Proxy Or Inband,HTTP Log In
+22/12/2010 17:29:11,Proxy Or Inband,HTTP Log In
+22/12/2010 17:29:10,Proxy Or Inband,HTTP Log In
+22/12/2010 17:29:09,Proxy Or Inband,HTTP Log In
+22/12/2010 17:29:08,Proxy Or Inband,HTTP Log In
+22/12/2010 17:29:07,Proxy Or Inband,HTTP Log In
+22/12/2010 17:29:05,Proxy Or Inband,HTTP Log In
+22/12/2010 17:28:53,Proxy Or Inband,HTTP Log In
+22/12/2010 17:28:52,Proxy Or Inband,HTTP Log In
+22/12/2010 17:28:51,Proxy Or Inband,HTTP Log In
+22/12/2010 17:28:50,Proxy Or Inband,HTTP Log In
+22/12/2010 17:28:49,Proxy Or Inband,HTTP Log In
+22/12/2010 17:28:48,Proxy Or Inband,HTTP Log In
+22/12/2010 17:28:47,Proxy Or Inband,HTTP Log In
+22/12/2010 17:28:34,Proxy Or Inband,HTTP Log In
+22/12/2010 17:28:33,Proxy Or Inband,HTTP Log In
+22/12/2010 17:28:32,Proxy Or Inband,HTTP Log In
+22/12/2010 17:28:31,Proxy Or Inband,HTTP Log In
+22/12/2010 17:28:29,Proxy Or Inband,HTTP Log In
+22/12/2010 17:28:17,Proxy Or Inband,HTTP Log In
+22/12/2010 17:28:16,Proxy Or Inband,HTTP Log In
+22/12/2010 17:28:15,Proxy Or Inband,HTTP Log In
+22/12/2010 17:28:13,Proxy Or Inband,HTTP Log In
+22/12/2010 17:28:12,Proxy Or Inband,HTTP Log In
+22/12/2010 17:28:11,Proxy Or Inband,HTTP Log In
+22/12/2010 17:27:59,Proxy Or Inband,HTTP Log In
+22/12/2010 17:27:58,Proxy Or Inband,HTTP Log In
+22/12/2010 17:27:58,Proxy Or Inband,HTTP Log In
+22/12/2010 17:27:56,Proxy Or Inband,HTTP Log In
+22/12/2010 17:27:55,Proxy Or Inband,HTTP Log In
+22/12/2010 17:27:55,Proxy Or Inband,HTTP Log In
+22/12/2010 17:27:43,Proxy Or Inband,HTTP Log In
+22/12/2010 17:27:42,Proxy Or Inband,HTTP Log In
+22/12/2010 17:27:41,Proxy Or Inband,HTTP Log In
+22/12/2010 17:27:40,Proxy Or Inband,HTTP Log In
+22/12/2010 17:27:39,Proxy Or Inband,HTTP Log In
+22/12/2010 17:27:38,Proxy Or Inband,HTTP Log In
+22/12/2010 17:27:38,Proxy Or Inband,HTTP Log In
+22/12/2010 17:27:25,Proxy Or Inband,HTTP Log In
+22/12/2010 17:27:24,Proxy Or Inband,HTTP Log In
+22/12/2010 17:27:23,Proxy Or Inband,HTTP Log In
+22/12/2010 17:27:22,Proxy Or Inband,HTTP Log In
+22/12/2010 17:27:21,Proxy Or Inband,HTTP Log In
+22/12/2010 17:27:20,Proxy Or Inband,HTTP Log In
+22/12/2010 17:27:20,Proxy Or Inband,HTTP Log In
+22/12/2010 17:27:09,Proxy Or Inband,HTTP Log In
+22/12/2010 17:27:08,Proxy Or Inband,HTTP Log In
+22/12/2010 17:27:07,Proxy Or Inband,HTTP Log In
+22/12/2010 17:27:06,Proxy Or Inband,HTTP Log In
+22/12/2010 17:27:05,Proxy Or Inband,HTTP Log In
+22/12/2010 17:27:04,Proxy Or Inband,HTTP Log In
+22/12/2010 17:27:04,Proxy Or Inband,HTTP Log In
+22/12/2010 17:26:51,Proxy Or Inband,HTTP Log In
+22/12/2010 17:26:50,Proxy Or Inband,HTTP Log In
+22/12/2010 17:26:49,Proxy Or Inband,HTTP Log In
+22/12/2010 17:26:48,Proxy Or Inband,HTTP Log In
+22/12/2010 17:26:47,Proxy Or Inband,HTTP Log In
+22/12/2010 17:26:46,Proxy Or Inband,HTTP Log In
+22/12/2010 17:26:46,Proxy Or Inband,HTTP Log In
+22/12/2010 17:26:33,Proxy Or Inband,HTTP Log In
+22/12/2010 17:26:32,Proxy Or Inband,HTTP Log In
+22/12/2010 17:26:32,Proxy Or Inband,HTTP Log In
+22/12/2010 17:26:31,Proxy Or Inband,HTTP Log In
+22/12/2010 17:26:29,Proxy Or Inband,HTTP Log In
+22/12/2010 17:26:15,Proxy Or Inband,HTTP Log In
+22/12/2010 17:26:15,Proxy Or Inband,HTTP Log In
+22/12/2010 17:26:13,Proxy Or Inband,HTTP Log In
+22/12/2010 17:26:13,Proxy Or Inband,HTTP Log In
+22/12/2010 17:26:12,Proxy Or Inband,HTTP Log In
+22/12/2010 17:26:01,Proxy Or Inband,HTTP Log In
+22/12/2010 17:26:00,Proxy Or Inband,HTTP Log In
+22/12/2010 17:25:59,Proxy Or Inband,HTTP Log In
+22/12/2010 17:25:58,Proxy Or Inband,HTTP Log In
+22/12/2010 17:25:57,Proxy Or Inband,HTTP Log In
+22/12/2010 17:25:56,Proxy Or Inband,HTTP Log In
+,,,,,"Too many ""Proxy Or Inband - HTTP Log In"" so everything between these two is lost"
+22/12/2010 14:51:00,Proxy Or Inband,HTTP Log In
+22/12/2010 14:50:58,Proxy Or Inband,HTTP Log In
+22/12/2010 14:50:57,Proxy Or Inband,HTTP Log In
+22/12/2010 14:50:57,Proxy Or Inband,HTTP Log In
+22/12/2010 14:50:57,Proxy Or Inband,HTTP Log In
+22/12/2010 14:50:57,Proxy Or Inband,HTTP Log In
+22/12/2010 14:50:56,Proxy Or Inband,HTTP Log In
+22/12/2010 14:50:56,Proxy Or Inband,HTTP Log In
+22/12/2010 14:50:56,Proxy Or Inband,HTTP Log In
+22/12/2010 14:50:55,Proxy Or Inband,HTTP Log In
+22/12/2010 14:50:55,Proxy Or Inband,HTTP Log In
+22/12/2010 14:50:55,Proxy Or Inband,HTTP Log In
+22/12/2010 14:50:55,Proxy Or Inband,HTTP Log In
+22/12/2010 14:50:54,Proxy Or Inband,HTTP Log In
+22/12/2010 14:50:54,Proxy Or Inband,HTTP Log In
+22/12/2010 14:50:54,Proxy Or Inband,HTTP Log In
+22/12/2010 14:50:52,Proxy Or Inband,HTTP Log In
+22/12/2010 14:50:52,Proxy Or Inband,HTTP Log In
+22/12/2010 14:50:50,Proxy Or Inband,HTTP Log In
+22/12/2010 14:50:49,Proxy Or Inband,HTTP Log In
+22/12/2010 14:48:57,RAID1,Start Rebuilding
+22/12/2010 14:48:53,Raid Set OS,Rebuild RaidSet
+22/12/2010 14:48:53,Enc#3 000,Device Inserted
+22/12/2010 14:45:14,Enc#3 000,Device Removed
+22/12/2010 14:45:14,Raid Set OS,RaidSet Degraded
+22/12/2010 14:45:12,RAID1,Volume Degraded,,,Second 500GB drive from the OS was replaced by Eddie by a new received 500 GB
+22/12/2010 14:39:22,Proxy Or Inband,HTTP Log In
+22/12/2010 14:39:21,Proxy Or Inband,HTTP Log In
+22/12/2010 14:39:20,Proxy Or Inband,HTTP Log In
+22/12/2010 14:39:19,Proxy Or Inband,HTTP Log In
+22/12/2010 14:39:18,Proxy Or Inband,HTTP Log In
+22/12/2010 14:39:11,Proxy Or Inband,HTTP Log In
+22/12/2010 14:39:10,Proxy Or Inband,HTTP Log In
+22/12/2010 14:39:10,Proxy Or Inband,HTTP Log In
+22/12/2010 14:39:09,Proxy Or Inband,HTTP Log In
+22/12/2010 14:39:09,Proxy Or Inband,HTTP Log In
+22/12/2010 14:38:56,Proxy Or Inband,HTTP Log In
+22/12/2010 14:38:55,Proxy Or Inband,HTTP Log In
+22/12/2010 14:38:55,Proxy Or Inband,HTTP Log In
+22/12/2010 14:38:54,Proxy Or Inband,HTTP Log In
+22/12/2010 14:38:53,Proxy Or Inband,HTTP Log In
+22/12/2010 14:38:46,Proxy Or Inband,HTTP Log In
+22/12/2010 14:38:45,Proxy Or Inband,HTTP Log In
+22/12/2010 14:38:45,Proxy Or Inband,HTTP Log In
+22/12/2010 14:38:44,Proxy Or Inband,HTTP Log In
+22/12/2010 14:38:44,Proxy Or Inband,HTTP Log In
+22/12/2010 14:38:43,Proxy Or Inband,HTTP Log In
+22/12/2010 14:38:42,Proxy Or Inband,HTTP Log In
+22/12/2010 14:38:41,Proxy Or Inband,HTTP Log In
+22/12/2010 14:38:39,Proxy Or Inband,HTTP Log In
+22/12/2010 14:38:38,Proxy Or Inband,HTTP Log In
+22/12/2010 14:38:38,Proxy Or Inband,HTTP Log In
+22/12/2010 14:38:38,Proxy Or Inband,HTTP Log In
+22/12/2010 14:38:37,Proxy Or Inband,HTTP Log In
+22/12/2010 14:38:37,Proxy Or Inband,HTTP Log In
+22/12/2010 14:38:37,Proxy Or Inband,HTTP Log In
+22/12/2010 14:38:36,Proxy Or Inband,HTTP Log In
+22/12/2010 14:38:35,Proxy Or Inband,HTTP Log In
+22/12/2010 14:38:33,Proxy Or Inband,HTTP Log In
+22/12/2010 14:38:33,Proxy Or Inband,HTTP Log In
+22/12/2010 14:38:46,Proxy Or Inband,HTTP Log In
+22/12/2010 14:38:46,Proxy Or Inband,HTTP Log In
+22/12/2010 14:38:45,Proxy Or Inband,HTTP Log In
+22/12/2010 14:38:45,Proxy Or Inband,HTTP Log In
+22/12/2010 14:38:42,Proxy Or Inband,HTTP Log In
+22/12/2010 13:46:10,Enc#3 003,Time Out Error
+21/12/2010 11:36:09,Proxy Or Inband,HTTP Log In
+21/12/2010 11:36:09,Proxy Or Inband,HTTP Log In
+21/12/2010 11:36:08,Proxy Or Inband,HTTP Log In
+21/12/2010 11:36:08,Proxy Or Inband,HTTP Log In
+21/12/2010 11:36:07,Proxy Or Inband,HTTP Log In
+21/12/2010 11:35:52,Proxy Or Inband,HTTP Log In
+21/12/2010 11:35:51,Proxy Or Inband,HTTP Log In
+21/12/2010 11:35:51,Proxy Or Inband,HTTP Log In
+21/12/2010 11:35:51,Proxy Or Inband,HTTP Log In
+21/12/2010 11:35:50,Proxy Or Inband,HTTP Log In
+21/12/2010 11:35:50,Proxy Or Inband,HTTP Log In
+21/12/2010 11:35:48,Proxy Or Inband,HTTP Log In
+21/12/2010 11:35:47,Proxy Or Inband,HTTP Log In
+21/12/2010 11:35:46,Proxy Or Inband,HTTP Log In
+21/12/2010 11:35:45,Proxy Or Inband,HTTP Log In
+21/12/2010 11:35:45,Proxy Or Inband,HTTP Log In
+21/12/2010 11:35:44,Proxy Or Inband,HTTP Log In
+21/12/2010 11:35:44,Proxy Or Inband,HTTP Log In
+21/12/2010 11:35:44,Proxy Or Inband,HTTP Log In
+21/12/2010 11:35:44,Proxy Or Inband,HTTP Log In
+21/12/2010 11:35:42,Proxy Or Inband,HTTP Log In
+21/12/2010 11:35:41,Proxy Or Inband,HTTP Log In
+21/12/2010 11:35:41,Proxy Or Inband,HTTP Log In
+21/12/2010 11:35:40,Proxy Or Inband,HTTP Log In
+21/12/2010 11:35:40,Proxy Or Inband,HTTP Log In
+21/12/2010 11:35:38,Proxy Or Inband,HTTP Log In
+21/12/2010 11:35:38,Proxy Or Inband,HTTP Log In
+21/12/2010 11:35:38,Proxy Or Inband,HTTP Log In
+21/12/2010 11:35:37,Proxy Or Inband,HTTP Log In
+21/12/2010 11:35:37,Proxy Or Inband,HTTP Log In
+21/12/2010 11:35:36,Proxy Or Inband,HTTP Log In
+21/12/2010 10:47:35,Proxy Or Inband,HTTP Log In
+21/12/2010 10:47:34,Proxy Or Inband,HTTP Log In
+21/12/2010 10:47:33,Proxy Or Inband,HTTP Log In
+21/12/2010 10:47:33,Proxy Or Inband,HTTP Log In
+21/12/2010 10:47:33,Proxy Or Inband,HTTP Log In
+21/12/2010 10:47:31,Proxy Or Inband,HTTP Log In
+21/12/2010 10:47:30,Proxy Or Inband,HTTP Log In
+21/12/2010 10:47:29,Proxy Or Inband,HTTP Log In
+21/12/2010 10:47:16,Proxy Or Inband,HTTP Log In
+21/12/2010 10:47:15,Proxy Or Inband,HTTP Log In
+21/12/2010 10:47:14,Proxy Or Inband,HTTP Log In
+21/12/2010 10:47:13,Proxy Or Inband,HTTP Log In
+21/12/2010 10:47:12,Proxy Or Inband,HTTP Log In
+21/12/2010 10:47:12,Proxy Or Inband,HTTP Log In
+21/12/2010 10:47:12,Proxy Or Inband,HTTP Log In
+21/12/2010 10:47:11,Proxy Or Inband,HTTP Log In
+21/12/2010 10:47:11,Proxy Or Inband,HTTP Log In
+21/12/2010 10:47:11,Proxy Or Inband,HTTP Log In
+21/12/2010 10:47:10,Proxy Or Inband,HTTP Log In
+21/12/2010 10:47:05,Proxy Or Inband,HTTP Log In
+21/12/2010 10:47:05,Proxy Or Inband,HTTP Log In
+21/12/2010 10:47:05,Proxy Or Inband,HTTP Log In
+21/12/2010 10:47:04,Proxy Or Inband,HTTP Log In
+21/12/2010 10:47:04,Proxy Or Inband,HTTP Log In
+21/12/2010 10:47:04,Proxy Or Inband,HTTP Log In
+21/12/2010 10:47:03,Proxy Or Inband,HTTP Log In
+21/12/2010 10:47:13,Proxy Or Inband,HTTP Log In
+21/12/2010 10:47:13,Proxy Or Inband,HTTP Log In
+21/12/2010 10:47:12,Proxy Or Inband,HTTP Log In
+20/12/2010 16:17:20,Proxy Or Inband,HTTP Log In
+20/12/2010 16:17:19,Proxy Or Inband,HTTP Log In
+20/12/2010 16:17:18,Proxy Or Inband,HTTP Log In
+20/12/2010 16:17:18,Proxy Or Inband,HTTP Log In
+20/12/2010 16:17:17,Proxy Or Inband,HTTP Log In
+20/12/2010 16:17:17,Proxy Or Inband,HTTP Log In
+20/12/2010 16:17:14,Proxy Or Inband,HTTP Log In
+20/12/2010 16:17:13,Proxy Or Inband,HTTP Log In
+20/12/2010 16:17:08,Proxy Or Inband,HTTP Log In
+20/12/2010 16:17:07,Proxy Or Inband,HTTP Log In
+20/12/2010 16:17:07,Proxy Or Inband,HTTP Log In
+20/12/2010 16:17:06,Proxy Or Inband,HTTP Log In
+20/12/2010 16:17:06,Proxy Or Inband,HTTP Log In
+20/12/2010 16:17:06,Proxy Or Inband,HTTP Log In
+20/12/2010 16:17:05,Proxy Or Inband,HTTP Log In
+20/12/2010 16:17:05,Proxy Or Inband,HTTP Log In
+20/12/2010 16:17:04,Proxy Or Inband,HTTP Log In
+20/12/2010 16:17:02,Proxy Or Inband,HTTP Log In
+20/12/2010 16:17:00,Proxy Or Inband,HTTP Log In
+20/12/2010 16:16:59,Proxy Or Inband,HTTP Log In
+20/12/2010 16:16:58,Proxy Or Inband,HTTP Log In
+20/12/2010 16:16:58,Proxy Or Inband,HTTP Log In
+20/12/2010 16:16:58,Proxy Or Inband,HTTP Log In
+20/12/2010 16:16:57,Proxy Or Inband,HTTP Log In
+20/12/2010 16:16:56,Proxy Or Inband,HTTP Log In
+20/12/2010 15:49:42,Proxy Or Inband,HTTP Log In
+20/12/2010 13:17:08,Proxy Or Inband,HTTP Log In
+20/12/2010 13:13:13,Proxy Or Inband,HTTP Log In
+20/12/2010 13:13:07,Proxy Or Inband,HTTP Log In
+20/12/2010 13:13:06,Proxy Or Inband,HTTP Log In
+20/12/2010 13:13:05,Proxy Or Inband,HTTP Log In
+20/12/2010 13:13:03,Proxy Or Inband,HTTP Log In
+20/12/2010 13:13:02,Proxy Or Inband,HTTP Log In
+20/12/2010 13:11:35,Proxy Or Inband,HTTP Log In
+20/12/2010 13:11:34,Proxy Or Inband,HTTP Log In
+20/12/2010 13:11:33,Proxy Or Inband,HTTP Log In
+20/12/2010 13:11:32,Proxy Or Inband,HTTP Log In
+20/12/2010 13:10:29,Proxy Or Inband,HTTP Log In
+20/12/2010 13:10:28,Proxy Or Inband,HTTP Log In
+20/12/2010 13:10:27,Proxy Or Inband,HTTP Log In
+20/12/2010 13:10:26,Proxy Or Inband,HTTP Log In
+20/12/2010 13:10:25,Proxy Or Inband,HTTP Log In
+20/12/2010 13:10:24,Proxy Or Inband,HTTP Log In
+20/12/2010 13:10:22,Proxy Or Inband,HTTP Log In
+20/12/2010 13:10:21,Proxy Or Inband,HTTP Log In
+20/12/2010 13:10:20,Proxy Or Inband,HTTP Log In
+20/12/2010 13:10:19,Proxy Or Inband,HTTP Log In
+20/12/2010 13:10:19,Proxy Or Inband,HTTP Log In
+20/12/2010 13:10:18,Proxy Or Inband,HTTP Log In
+20/12/2010 13:10:18,Proxy Or Inband,HTTP Log In
+20/12/2010 13:10:17,Proxy Or Inband,HTTP Log In
+20/12/2010 13:10:17,Proxy Or Inband,HTTP Log In
+20/12/2010 13:10:16,Proxy Or Inband,HTTP Log In
+20/12/2010 13:10:16,Proxy Or Inband,HTTP Log In
+20/12/2010 13:10:16,Proxy Or Inband,HTTP Log In
+20/12/2010 13:10:16,Proxy Or Inband,HTTP Log In
+20/12/2010 13:10:15,Proxy Or Inband,HTTP Log In
+20/12/2010 13:10:15,Proxy Or Inband,HTTP Log In
+20/12/2010 13:10:15,Proxy Or Inband,HTTP Log In
+20/12/2010 13:10:15,Proxy Or Inband,HTTP Log In
+20/12/2010 13:10:15,Proxy Or Inband,HTTP Log In
+20/12/2010 13:10:14,Proxy Or Inband,HTTP Log In
+20/12/2010 13:10:14,Proxy Or Inband,HTTP Log In
+20/12/2010 13:10:13,Proxy Or Inband,HTTP Log In
+20/12/2010 13:10:13,Proxy Or Inband,HTTP Log In
+20/12/2010 13:10:13,Proxy Or Inband,HTTP Log In
+20/12/2010 13:10:11,Proxy Or Inband,HTTP Log In
+20/12/2010 13:10:11,Proxy Or Inband,HTTP Log In
+20/12/2010 13:10:10,Proxy Or Inband,HTTP Log In
+20/12/2010 13:10:09,Proxy Or Inband,HTTP Log In
+20/12/2010 13:10:08,Proxy Or Inband,HTTP Log In
+20/12/2010 13:10:08,Proxy Or Inband,HTTP Log In
+20/12/2010 13:10:07,Proxy Or Inband,HTTP Log In
+20/12/2010 13:10:06,Proxy Or Inband,HTTP Log In
+20/12/2010 13:08:40,Proxy Or Inband,HTTP Log In
+20/12/2010 13:08:40,Proxy Or Inband,HTTP Log In
+20/12/2010 13:08:39,Proxy Or Inband,HTTP Log In
+20/12/2010 13:08:39,Proxy Or Inband,HTTP Log In
+20/12/2010 13:08:39,Proxy Or Inband,HTTP Log In
+20/12/2010 13:08:38,Proxy Or Inband,HTTP Log In
+20/12/2010 13:08:38,Proxy Or Inband,HTTP Log In
+20/12/2010 13:08:38,Proxy Or Inband,HTTP Log In
+20/12/2010 13:08:34,Proxy Or Inband,HTTP Log In
+20/12/2010 13:08:32,Proxy Or Inband,HTTP Log In
+20/12/2010 13:08:32,Proxy Or Inband,HTTP Log In
+20/12/2010 13:08:32,Proxy Or Inband,HTTP Log In
+20/12/2010 13:08:30,Proxy Or Inband,HTTP Log In
+20/12/2010 13:08:30,Proxy Or Inband,HTTP Log In
+20/12/2010 13:08:30,Proxy Or Inband,HTTP Log In
+20/12/2010 13:08:28,Proxy Or Inband,HTTP Log In
+20/12/2010 13:08:28,Proxy Or Inband,HTTP Log In
+20/12/2010 13:08:27,Proxy Or Inband,HTTP Log In
+20/12/2010 13:08:25,Proxy Or Inband,HTTP Log In
+20/12/2010 13:08:24,Proxy Or Inband,HTTP Log In
+20/12/2010 12:55:37,Proxy Or Inband,HTTP Log In
+20/12/2010 12:55:36,Proxy Or Inband,HTTP Log In
+20/12/2010 12:55:35,Proxy Or Inband,HTTP Log In
+20/12/2010 12:55:35,Proxy Or Inband,HTTP Log In
+20/12/2010 12:55:33,Proxy Or Inband,HTTP Log In
+20/12/2010 12:55:33,Proxy Or Inband,HTTP Log In
+20/12/2010 12:55:33,Proxy Or Inband,HTTP Log In
+20/12/2010 12:55:32,Proxy Or Inband,HTTP Log In
+20/12/2010 12:55:32,Proxy Or Inband,HTTP Log In
+20/12/2010 12:55:32,Proxy Or Inband,HTTP Log In
+20/12/2010 12:55:32,Proxy Or Inband,HTTP Log In
+20/12/2010 12:55:32,Proxy Or Inband,HTTP Log In
+20/12/2010 19:55:32,Proxy Or Inband,HTTP Log In
+20/12/2010 19:55:31,Proxy Or Inband,HTTP Log In
+20/12/2010 19:55:30,Proxy Or Inband,HTTP Log In
+20/12/2010 19:55:29,Proxy Or Inband,HTTP Log In
+20/12/2010 19:55:28,Proxy Or Inband,HTTP Log In
+20/12/2010 19:55:28,Proxy Or Inband,HTTP Log In
+20/12/2010 19:55:27,Proxy Or Inband,HTTP Log In
+20/12/2010 19:55:26,Proxy Or Inband,HTTP Log In
+20/12/2010 19:55:23,Proxy Or Inband,HTTP Log In
+20/12/2010 19:55:22,Proxy Or Inband,HTTP Log In
+20/12/2010 19:55:21,Proxy Or Inband,HTTP Log In
+20/12/2010 19:47:43,Proxy Or Inband,HTTP Log In
+20/12/2010 19:47:42,Proxy Or Inband,HTTP Log In
+20/12/2010 19:47:41,Proxy Or Inband,HTTP Log In
+20/12/2010 19:47:40,Proxy Or Inband,HTTP Log In
+20/12/2010 19:47:39,Proxy Or Inband,HTTP Log In
+20/12/2010 19:47:39,Proxy Or Inband,HTTP Log In
+20/12/2010 19:47:36,Proxy Or Inband,HTTP Log In
+20/12/2010 19:47:35,Proxy Or Inband,HTTP Log In
+20/12/2010 19:47:34,Proxy Or Inband,HTTP Log In
+20/12/2010 19:47:33,Proxy Or Inband,HTTP Log In
+20/12/2010 19:47:32,Proxy Or Inband,HTTP Log In
+20/12/2010 19:47:31,Proxy Or Inband,HTTP Log In
+20/12/2010 19:47:29,Proxy Or Inband,HTTP Log In
+,,,,,"Too many ""Proxy Or Inband - HTTP Log In"" so everything between these two is lost"
+18/12/2010 00:15:17,Enc#3 000,Reading Error
+18/12/2010 00:15:11,Enc#3 000,Reading Error
+18/12/2010 00:15:05,Enc#3 000,Reading Error
+18/12/2010 00:14:59,Enc#3 000,Reading Error
+18/12/2010 00:14:53,Enc#3 000,Reading Error
+18/12/2010 00:14:47,Enc#3 000,Reading Error
+18/12/2010 00:14:41,Enc#3 000,Reading Error
+18/12/2010 00:14:35,Enc#3 000,Reading Error
+18/12/2010 00:14:27,Enc#3 000,Reading Error
+18/12/2010 00:14:21,Enc#3 000,Reading Error
+18/12/2010 00:14:14,Enc#3 000,Reading Error
+18/12/2010 00:14:07,Enc#3 000,Reading Error
+18/12/2010 00:13:59,Enc#3 000,Reading Error
+18/12/2010 00:13:53,Enc#3 000,Reading Error
+18/12/2010 00:13:46,Enc#3 000,Reading Error
+18/12/2010 00:13:40,Enc#3 000,Reading Error
+18/12/2010 00:13:34,Enc#3 000,Reading Error
+18/12/2010 00:13:28,Enc#3 000,Reading Error
+18/12/2010 00:13:22,Enc#3 000,Reading Error
+18/12/2010 00:13:16,Enc#3 000,Reading Error
+18/12/2010 00:13:09,Enc#3 000,Reading Error
+18/12/2010 00:13:03,Enc#3 000,Reading Error
+18/12/2010 00:12:57,Enc#3 000,Reading Error
+18/12/2010 00:12:51,Enc#3 000,Reading Error
+18/12/2010 00:12:45,Enc#3 000,Reading Error
+18/12/2010 00:12:39,Enc#3 000,Reading Error
+18/12/2010 00:12:33,Enc#3 000,Reading Error
+18/12/2010 00:12:27,Enc#3 000,Reading Error
+18/12/2010 00:12:20,Enc#3 000,Reading Error
+18/12/2010 00:12:14,Enc#3 000,Reading Error
+18/12/2010 00:12:08,Enc#3 000,Reading Error
+18/12/2010 00:12:02,Enc#3 000,Reading Error
+18/12/2010 00:11:56,Enc#3 000,Reading Error
+18/12/2010 00:11:50,Enc#3 000,Reading Error
+18/12/2010 00:11:44,Enc#3 000,Reading Error
+18/12/2010 00:11:37,Enc#3 000,Reading Error
+18/12/2010 00:11:31,Enc#3 000,Reading Error
+18/12/2010 00:11:25,Enc#3 000,Reading Error
+18/12/2010 00:11:19,Enc#3 000,Reading Error
+18/12/2010 00:11:13,Enc#3 000,Reading Error
+18/12/2010 00:11:07,Enc#3 000,Reading Error
+18/12/2010 00:11:01,Enc#3 000,Reading Error
+18/12/2010 00:10:54,Enc#3 000,Reading Error
+18/12/2010 00:10:48,Enc#3 000,Reading Error
+18/12/2010 00:10:42,Enc#3 000,Reading Error
+18/12/2010 00:10:35,Enc#3 000,Reading Error
+18/12/2010 00:10:28,Enc#3 000,Reading Error
+18/12/2010 00:10:22,Enc#3 000,Reading Error
+18/12/2010 00:10:15,Enc#3 000,Reading Error
+18/12/2010 00:10:09,Enc#3 000,Reading Error
+17/12/2010 23:10:32,Enc#3 000,Reading Error
+17/12/2010 23:10:26,Enc#3 000,Reading Error
+17/12/2010 23:10:20,Enc#3 000,Reading Error
+17/12/2010 23:10:10,Enc#3 000,Reading Error
+17/12/2010 23:10:03,Enc#3 000,Reading Error
+17/12/2010 23:09:57,Enc#3 000,Reading Error
+17/12/2010 23:09:50,Enc#3 000,Reading Error
+17/12/2010 23:09:44,Enc#3 000,Reading Error
+17/12/2010 23:09:37,Enc#3 000,Reading Error
+17/12/2010 23:09:31,Enc#3 000,Reading Error
+17/12/2010 23:09:25,Enc#3 000,Reading Error
+17/12/2010 23:09:19,Enc#3 000,Reading Error
+17/12/2010 23:09:13,Enc#3 000,Reading Error
+17/12/2010 23:09:06,Enc#3 000,Reading Error
+17/12/2010 23:09:00,Enc#3 000,Reading Error
+17/12/2010 23:08:54,Enc#3 000,Reading Error
+17/12/2010 23:08:49,Enc#3 000,Time Out Error
+17/12/2010 23:08:36,Enc#3 000,Reading Error
+17/12/2010 23:08:32,Enc#3 000,Reading Error
+17/12/2010 23:08:29,Enc#3 000,Reading Error
+17/12/2010 23:08:26,Enc#3 000,Reading Error
+17/12/2010 23:08:18,Enc#3 000,Time Out Error
+17/12/2010 23:08:09,Enc#3 000,Reading Error
+17/12/2010 23:08:04,Enc#3 000,Time Out Error
+17/12/2010 23:07:55,Enc#3 000,Reading Error
+17/12/2010 23:07:49,Enc#3 000,Time Out Error
+17/12/2010 23:07:37,Enc#3 000,Time Out Error
+17/12/2010 23:07:26,Enc#3 000,Time Out Error
+17/12/2010 22:27:50,Enc#3 001,Device Failed
+17/12/2010 22:27:50,Raid Set OS,RaidSet Degraded
+17/12/2010 22:27:48,RAID1,Volume Degraded
+17/12/2010 22:27:46,Enc#3 001,Reading Error
+17/12/2010 22:27:37,Enc#3 001,Reading Error
+17/12/2010 22:27:31,Enc#3 001,Time Out Error
+17/12/2010 22:27:08,Enc#3 001,Reading Error
+17/12/2010 22:26:45,Enc#3 001,Reading Error
+17/12/2010 22:26:39,Enc#3 001,Reading Error
+17/12/2010 22:26:37,Enc#3 001,Time Out Error
+17/12/2010 21:50:05,Proxy Or Inband,HTTP Log In
+17/12/2010 21:49:08,Proxy Or Inband,HTTP Log In
+17/12/2010 19:36:44,Enc#3 001,Reading Error
+17/12/2010 19:08:39,Enc#3 001,Reading Error
+17/12/2010 19:08:21,Enc#3 001,Reading Error
+17/12/2010 19:06:56,H/W Monitor,Raid Powered On
+17/12/2010 19:04:35,H/W Monitor,Raid Powered On
+17/12/2010 19:03:16,H/W Monitor,Raid Powered On
+17/12/2010 18:58:53,H/W Monitor,Raid Powered On
+17/12/2010 18:50:18,H/W Monitor,Raid Powered On
+17/12/2010 18:45:42,H/W Monitor,Raid Powered On
+17/12/2010 18:43:05,H/W Monitor,Raid Powered On
+17/12/2010 18:40:05,H/W Monitor,Raid Powered On
+17/12/2010 18:37:20,H/W Monitor,Raid Powered On
+17/12/2010 18:36:04,Enc#3 001,Reading Error
+17/12/2010 18:35:58,Enc#3 001,Reading Error
+17/12/2010 18:35:33,H/W Monitor,Raid Powered On
+17/12/2010 18:34:38,Enc#3 001,Reading Error
+17/12/2010 18:34:32,Enc#3 001,Reading Error
+17/12/2010 18:34:23,Enc#3 001,Reading Error
+17/12/2010 18:33:55,Enc#3 001,Reading Error
+17/12/2010 18:33:49,Enc#3 001,Reading Error
+17/12/2010 18:33:40,H/W Monitor,Raid Powered On
+15/12/2010 19:17:37,Enc#3 001,Time Out Error
+15/12/2010 19:06:56,Enc#3 001,Reading Error
+15/12/2010 16:29:03,Enc#3 001,Reading Error
+15/12/2010 16:28:53,Enc#3 001,Reading Error
+10/12/2010 23:33:07,Enc#3 003,Time Out Error
+18/11/2010 19:00:38,Enc#3 018,Reading Error
+18/11/2010 19:00:32,Enc#3 018,Reading Error
+10/11/2010 17:31:32,Enc#3 000,Reading Error
+10/11/2010 17:31:29,Enc#3 000,Reading Error
+10/11/2010 17:31:22,Enc#3 000,Reading Error
+10/11/2010 16:41:59,Enc#3 000,Reading Error
+10/11/2010 16:41:56,Enc#3 000,Reading Error
+10/11/2010 16:41:53,Enc#3 000,Reading Error
+29/10/2010 16:10:10,Proxy Or Inband,HTTP Log In
+29/10/2010 16:09:52,Proxy Or Inband,HTTP Log In
+29/10/2010 16:09:47,Proxy Or Inband,HTTP Log In
+29/10/2010 16:09:28,Proxy Or Inband,HTTP Log In
+29/10/2010 16:09:00,Proxy Or Inband,HTTP Log In
+29/10/2010 16:05:52,Proxy Or Inband,HTTP Log In
+29/10/2010 15:55:01,Proxy Or Inband,HTTP Log In
+29/10/2010 19:51:14,Proxy Or Inband,HTTP Log In
+12/10/2010 14:16:11,Enc#3 018,Reading Error
+12/10/2010 14:15:38,Enc#3 018,Reading Error
+01/10/2010 16:59:29,H/W Monitor,Raid Powered On
+01/10/2010 16:56:31,Enc#4 015,Device Removed
+01/10/2010 16:56:31,Enc#4 014,Device Removed
+01/10/2010 16:56:31,Enc#4 013,Device Removed
+01/10/2010 16:56:31,Enc#4 012,Device Removed
+01/10/2010 16:56:31,Enc#4 011,Device Removed
+01/10/2010 16:56:31,Enc#4 010,Device Removed
+01/10/2010 16:56:31,Enc#4 009,Device Removed
+01/10/2010 16:56:31,Enc#4 008,Device Removed
+01/10/2010 16:56:31,Enc#4 007,Device Removed
+01/10/2010 16:56:31,Enc#4 006,Device Removed
+01/10/2010 16:56:31,Enc#4 005,Device Removed
+01/10/2010 16:56:31,Enc#4 004,Device Removed
+01/10/2010 16:56:31,Enc#4 003,Device Removed
+01/10/2010 16:56:31,Enc#4 002,Device Removed
+01/10/2010 16:56:31,Enc#4 001,Device Removed
+01/10/2010 16:56:31,Enc#4 000,Device Removed
+01/10/2010 16:56:31,Raid Set B,RaidSet Degraded
+01/10/2010 16:56:31,Raid Set B,RaidSet Degraded
+01/10/2010 16:56:31,Raid Set B,RaidSet Degraded
+01/10/2010 16:56:31,Raid Set B,RaidSet Degraded
+01/10/2010 16:56:31,Raid Set B,RaidSet Degraded
+01/10/2010 16:56:31,Raid Set B,RaidSet Degraded
+01/10/2010 16:56:31,Raid Set B,RaidSet Degraded
+01/10/2010 16:56:31,Raid Set B,RaidSet Degraded
+01/10/2010 16:56:31,Raid Set B,RaidSet Degraded
+01/10/2010 16:56:31,Raid Set B,RaidSet Degraded
+01/10/2010 16:56:31,Raid Set B,RaidSet Degraded
+01/10/2010 16:56:31,Raid Set B,RaidSet Degraded
+01/10/2010 16:56:31,Raid Set B,RaidSet Degraded
+01/10/2010 16:56:31,Raid Set B,RaidSet Degraded
+01/10/2010 16:56:31,Raid Set B,RaidSet Degraded
+01/10/2010 16:56:31,Raid Set B,RaidSet Degraded
+01/10/2010 16:56:29, R60Vol2-2,Volume Failed
+01/10/2010 16:56:29, R60Vol2-2,Volume Failed
+01/10/2010 16:56:29, R60Vol2-2,Volume Failed
+01/10/2010 16:56:29, R60Vol2-2,Volume Failed
+01/10/2010 16:56:29, R60Vol2-2,Volume Failed
+01/10/2010 16:56:29, R60Vol2-2,Volume Failed
+01/10/2010 16:56:29, R60Vol2-2,Volume Failed
+01/10/2010 16:56:29, R60Vol2-2,Volume Failed
+01/10/2010 16:56:29, R60Vol2-2,Volume Failed
+01/10/2010 16:56:29, R60Vol2-2,Volume Failed
+01/10/2010 16:56:29, R60Vol2-2,Volume Failed
+01/10/2010 16:56:29, R60Vol2-2,Volume Failed
+01/10/2010 16:56:29, R60Vol2-2,Volume Failed
+01/10/2010 16:56:29, R60Vol2-2,Volume Failed
+01/10/2010 16:56:29, R60Vol2-2,Volume Degraded
+01/10/2010 16:56:29, R60Vol2-2,Volume Degraded
+28/09/2010 18:11:43,H/W Monitor,Raid Powered On
+28/09/2010 18:03:44,H/W Monitor,Raid Powered On
+28/09/2010 17:59:21,H/W Monitor,Raid Powered On
+28/09/2010 16:47:33,H/W Monitor,Raid Powered On
+28/09/2010 12:59:15,H/W Monitor,Raid Powered On
+
+
+24/09/2010 15:20:30,Proxy Or Inband,HTTP Log In
+10/09/2010 19:35:08,Enc#3 003,Time Out Error
+29/08/2010 15:06:43,Enc#3 003,Time Out Error
+28/08/2010 12:32:32,Enc#3 003,Time Out Error
+24/08/2010 15:46:57,Enc#3 003,Time Out Error
+20/08/2010 16:36:29,Proxy Or Inband,HTTP Log In
+20/08/2010 15:27:40,H/W Monitor,Raid Powered On
+20/08/2010 15:19:19,H/W Monitor,Raid Powered On
+20/08/2010 10:21:07,H/W Monitor,Raid Powered On
+19/08/2010 23:03:40,RAID1,Complete Rebuild,02:33:08
+19/08/2010 22:59:15,Proxy Or Inband,HTTP Log In
+19/08/2010 22:59:14,Proxy Or Inband,HTTP Log In
+19/08/2010 22:58:59,Proxy Or Inband,HTTP Log In
+19/08/2010 22:54:23,Proxy Or Inband,HTTP Log In
+19/08/2010 22:53:43,Proxy Or Inband,HTTP Log In
+19/08/2010 22:53:32,Proxy Or Inband,HTTP Log In
+19/08/2010 22:53:29,Proxy Or Inband,HTTP Log In
+19/08/2010 22:42:26,Proxy Or Inband,HTTP Log In
+19/08/2010 22:42:24,Proxy Or Inband,HTTP Log In
+19/08/2010 22:42:23,Proxy Or Inband,HTTP Log In
+19/08/2010 22:41:58,Proxy Or Inband,HTTP Log In
+19/08/2010 22:37:42,Proxy Or Inband,HTTP Log In
+19/08/2010 22:37:39,Proxy Or Inband,HTTP Log In
+19/08/2010 22:37:36,Proxy Or Inband,HTTP Log In
+19/08/2010 22:35:58,Proxy Or Inband,HTTP Log In
+19/08/2010 22:01:04,Proxy Or Inband,HTTP Log In
+19/08/2010 21:56:53,Proxy Or Inband,HTTP Log In
+19/08/2010 21:54:32,Proxy Or Inband,HTTP Log In
+19/08/2010 21:53:49,Proxy Or Inband,HTTP Log In
+19/08/2010 21:39:15,Proxy Or Inband,HTTP Log In
+19/08/2010 21:39:07,Proxy Or Inband,HTTP Log In
+19/08/2010 21:38:52,Proxy Or Inband,HTTP Log In
+19/08/2010 20:30:31,RAID1,Start Rebuilding
+19/08/2010 20:30:29,Raid Set OS,Rebuild RaidSet
+19/08/2010 20:30:29,Enc#3 001,Device Inserted
+19/08/2010 20:24:28,Enc#3 001,Device Failed
+19/08/2010 20:24:27,Raid Set OS,RaidSet Degraded
+19/08/2010 20:24:25,RAID1,Volume Degraded,,,OS Hardrive hotsawpped by NB
+19/08/2010 20:21:43,Proxy Or Inband,HTTP Log In
+19/08/2010 20:04:05,Proxy Or Inband,HTTP Log In
+27/07/2010 10:16:23,Enc#3 003,Time Out Error
+14/07/2010 13:00:15,Proxy Or Inband,HTTP Log In
+13/07/2010 19:25:59,Proxy Or Inband,HTTP Log In
+13/07/2010 01:05:36,Proxy Or Inband ,HTTP Log In 
+12/07/2010 21:39:00,H/W Monitor ,Raid Powered On 
+12/07/2010 17:24:56,H/W Monitor ,Raid Powered On 
+12/07/2010 15:27:03,H/W Monitor ,Raid Powered On 
+07/07/2010 13:02:19,Enc#3 003 ,Reading Error 
+07/07/2010 13:02:14,Enc#3 003 ,Time Out Error 
+30/06/2010 18:55:26,Proxy Or Inband ,HTTP Log In 
+30/06/2010 10:26:45,Enc#3 003 ,Reading Error 
+28/06/2010 13:18:21,Proxy Or Inband ,HTTP Log In 
+27/06/2010 08:26:10,Enc#3 015 ,Time Out Error 
+28/06/2010 13:18:21,Proxy Or Inband ,HTTP Log In 
+27/06/2010 08:26:10,Enc#3 015 ,Time Out Error 
+24/06/2010 19:43:26,RAID1 ,Complete Rebuild ,02:33:54
+24/06/2010 17:13:09,Proxy Or Inband ,HTTP Log In 
+24/06/2010 17:09:31,RAID1 ,Start Rebuilding 
+24/06/2010 17:09:29,Raid Set OS ,Rebuild RaidSet 
+24/06/2010 17:09:29,Enc#3 001 ,Device Inserted ,,,New drive changed by NB
+24/06/2010 17:03:35,Enc#3 001 ,Device Removed 
+24/06/2010 16:45:57,Proxy Or Inband ,HTTP Log In 
+22/06/2010 17:06:22,Proxy Or Inband ,HTTP Log In 
+16/06/2010 09:22:17,Proxy Or Inband ,HTTP Log In 
+15/06/2010 11:17:21,Enc#3 003 ,Time Out Error 
+07/06/2010 12:27:23,Enc#3 003 ,Reading Error 
+07/06/2010 12:27:14,Enc#3 003 ,Time Out Error 
+13/05/2010 10:08:35,Proxy Or Inband ,HTTP Log In 
+30/04/2010 16:30:27,Enc#3 001 ,Device Failed(SMART) 
+30/04/2010 16:30:26,Raid Set OS ,RaidSet Degraded 
+30/04/2010 16:30:24,RAID1 ,Volume Degraded 
+30/04/2010 16:30:23,Enc#3 001 ,Reading Error 
+30/04/2010 03:28:18,Enc#3 001 ,Time Out Error 
+29/04/2010 04:46:41,Enc#3 001 ,Time Out Error 
+28/04/2010 12:52:58,Enc#3 003 ,Reading Error 
+28/04/2010 12:52:52,Enc#3 003 ,Time Out Error 
+27/04/2010 17:07:27,Enc#3 001 ,Time Out Error 
+26/04/2010 23:48:24,Enc#3 001 ,Time Out Error 
+26/04/2010 23:15:17,Enc#3 001 ,Time Out Error 
+26/04/2010 23:10:26,Enc#3 001 ,Time Out Error 
+26/04/2010 20:59:23,Enc#3 003 ,Time Out Error 
+25/04/2010 02:51:43,Enc#3 001 ,Time Out Error 
+22/04/2010 07:34:31,Enc#3 001 ,Time Out Error 
+21/04/2010 23:11:47,Enc#3 001 ,Time Out Error 
+15/04/2010 20:22:14,Enc#4 010 ,Time Out Error 
+14/04/2010 14:13:25,Enc#3 003 ,Time Out Error 
+14/04/2010 12:41:34,Enc#3 003 ,Reading Error 
+14/04/2010 12:41:29,Enc#3 003 ,Time Out Error 
+13/04/2010 21:51:49,Enc#3 004 ,Time Out Error 
+12/04/2010 21:39:25,Enc#4 004 ,Time Out Error 
+12/04/2010 14:09:31,Enc#4 004 ,Time Out Error 
+11/04/2010 10:06:49,Enc#3 003 ,Time Out Error 
+11/04/2010 09:49:37,Enc#4 018 ,Time Out Error 
+09/04/2010 12:44:09,Enc#4 004 ,Reading Error 
+09/04/2010 12:44:03,Enc#4 004 ,Time Out Error 
+09/04/2010 12:43:52,Enc#4 004 ,Time Out Error 
+09/04/2010 12:43:39,Enc#4 004 ,Reading Error 
+09/04/2010 12:43:34,Enc#4 004 ,Time Out Error 
+06/04/2010 16:33:04,Proxy Or Inband ,HTTP Log In 
+05/04/2010 07:35:58,Enc#3 003 ,Reading Error 
+05/04/2010 07:35:52,Enc#3 003 ,Time Out Error 
+05/04/2010 06:48:43,Enc#3 003 ,Reading Error 
+05/04/2010 06:45:12,Enc#3 003 ,Time Out Error 
+05/04/2010 06:35:20,Enc#3 003 ,Reading Error 
+05/04/2010 06:35:14,Enc#3 003 ,Time Out Error 
+05/04/2010 06:34:10,Enc#3 003 ,Reading Error 
+05/04/2010 06:34:04,Enc#3 003 ,Time Out Error 
+05/04/2010 06:03:52,Enc#3 003 ,Time Out Error 
+05/04/2010 03:54:46,Enc#3 003 ,Reading Error 
+05/04/2010 02:38:09,Enc#3 003 ,Reading Error 
+05/04/2010 01:47:56,Enc#3 003 ,Reading Error 
+05/04/2010 01:47:50,Enc#3 003 ,Time Out Error 
+05/04/2010 01:02:15,Enc#3 003 ,Reading Error 
+05/04/2010 01:02:10,Enc#3 003 ,Time Out Error 
+04/04/2010 15:35:02,Enc#3 017 ,Time Out Error 
+03/04/2010 01:58:07,Enc#3 003 ,Reading Error 
+03/04/2010 01:57:59,Enc#3 003 ,Time Out Error 
+03/04/2010 01:37:02,Enc#3 003 ,Time Out Error 
+01/04/2010 11:56:04,Enc#3 003 ,Time Out Error 
+01/04/2010 01:24:42,Enc#4 000 ,Time Out Error 
+24/03/2010 16:34:41,Proxy Or Inband ,HTTP Log In 
+23/03/2010 19:53:06,Enc#4 021 ,Reading Error 
+23/03/2010 15:42:56,H/W Monitor ,Raid Powered On 
+12/03/2010 17:44:01,Enc#3 023 ,Time Out Error 
+10/03/2010 05:14:35,R60Vol2-1 ,Complete Rebuild ,13:49:54
+09/03/2010 15:24:38,R60Vol2-1 ,Start Rebuilding 
+09/03/2010 15:24:35,Raid Set A ,Rebuild RaidSet 
+09/03/2010 15:24:35,Enc#3 003 ,Device Inserted 
+09/03/2010 15:24:35,Enc#3 003 ,Device Removed 
+09/03/2010 15:24:34,Raid Set A ,RaidSet Degraded 
+09/03/2010 15:24:32,R60Vol2-1 ,Volume Degraded 
+09/03/2010 15:24:26,Enc#3 003 ,Time Out Error 
+08/03/2010 10:50:49,Proxy Or Inband ,HTTP Log In 
+05/03/2010 17:33:52,Enc#3 003 ,Reading Error 
+05/03/2010 17:33:46,Enc#3 003 ,Time Out Error 
+05/03/2010 17:33:12,Enc#3 003 ,Time Out Error 
+04/03/2010 20:17:36,Proxy Or Inband ,HTTP Log In 
+03/03/2010 21:00:38,Proxy Or Inband ,HTTP Log In 
+03/03/2010 20:27:37,H/W Monitor ,Raid Powered On 
+03/03/2010 19:00:42,H/W Monitor ,Raid Powered On 
+02/03/2010 21:17:33,Proxy Or Inband ,HTTP Log In 
+02/03/2010 20:57:03,H/W Monitor ,Raid Powered On 
+02/03/2010 19:31:39,H/W Monitor ,Raid Powered On 
+02/03/2010 19:12:32,Proxy Or Inband ,HTTP Log In 
+02/03/2010 16:18:17,H/W Monitor ,Raid Powered On 
+21/02/2010 19:19:14,Enc#4 021 ,Reading Error 
+21/02/2010 19:19:09,Enc#4 021 ,Time Out Error 
+17/02/2010 14:56:00,Proxy Or Inband ,HTTP Log In 
+12/02/2010 03:37:31,Enc#3 003 ,Time Out Error 
+08/02/2010 23:44:34,Enc#3 003 ,Time Out Error 
+08/02/2010 20:39:45,Proxy Or Inband ,HTTP Log In 
+04/02/2010 18:08:49,Proxy Or Inband ,HTTP Log In 
+04/02/2010 13:27:37,Proxy Or Inband ,HTTP Log In 
+31/01/2010 08:13:32,R60Vol2-1 ,Complete Rebuild ,38:44:06
+29/01/2010 17:29:25,R60Vol2-1 ,Start Rebuilding 
+29/01/2010 17:29:23,Raid Set A ,Rebuild RaidSet 
+29/01/2010 17:29:23,Enc#3 018 ,Device Inserted 
+29/01/2010 17:29:19,Enc#3 018 ,Device Removed 
+29/01/2010 17:29:19,Raid Set A ,RaidSet Degraded 
+29/01/2010 17:29:17,R60Vol2-1 ,Volume Degraded 
+29/01/2010 17:29:11,Enc#3 018 ,Time Out Error 
+28/01/2010 01:54:36,R60Vol2-1 ,Complete Rebuild ,16:52:18
+27/01/2010 15:16:40,Proxy Or Inband ,HTTP Log In 
+27/01/2010 09:06:06,R60Vol2-1 ,Start Rebuilding 
+27/01/2010 09:06:04,Raid Set A ,Rebuild RaidSet 
+27/01/2010 09:06:04,Enc#3 018 ,Device Inserted 
+27/01/2010 09:05:46,Enc#3 018 ,Device Removed 
+27/01/2010 09:05:45,Raid Set A ,RaidSet Degraded 
+27/01/2010 09:05:43,R60Vol2-1 ,Volume Degraded 
+27/01/2010 09:05:38,Enc#3 018 ,Time Out Error 
+18/01/2010 17:12:59,Enc#3 003 ,Time Out Error 
+17/01/2010 18:54:35,Proxy Or Inband ,HTTP Log In 
+15/01/2010 23:27:17,Enc#3 003 ,Time Out Error 
+15/01/2010 19:00:04,H/W Monitor ,Raid Powered On 
+15/01/2010 18:46:00,H/W Monitor ,Raid Powered On 
+15/01/2010 18:30:46,H/W Monitor ,Raid Powered On 
+15/01/2010 18:20:19,H/W Monitor ,Raid Powered On 
+15/01/2010 18:09:08,H/W Monitor ,Raid Powered On 
+15/01/2010 13:26:17,H/W Monitor ,Raid Powered On 
+14/01/2010 16:45:42,Proxy Or Inband ,HTTP Log In 
+14/01/2010 10:33:05,Proxy Or Inband ,HTTP Log In 
+14/01/2010 13:16:35,Proxy Or Inband ,HTTP Log In 
+13/01/2010 18:41:24,H/W Monitor ,Raid Powered On 
+30/12/2009 16:38:57,H/W Monitor ,Raid Powered On 
+29/12/2009 22:44:07,H/W Monitor ,Raid Powered On 
+29/12/2009 21:44:33,H/W Monitor ,Raid Powered On 
+29/12/2009 18:47:41,Proxy Or Inband ,HTTP Log In 
+29/12/2009 17:17:49,H/W Monitor ,Raid Powered On 
+28/12/2009 19:41:53,E4Enclosure Temp ,Recovered 
+28/12/2009 19:41:23,E4Enclosure Temp ,Over Temp. 
+25/12/2009 09:06:53,E3Enclosure Temp ,Recovered 
+25/12/2009 09:06:23,E3Enclosure Temp ,Over Temp. 
+18/12/2009 15:24:23,E4Enclosure Temp ,Recovered 
+18/12/2009 15:23:23,E4Enclosure Temp ,Over Temp. 
+17/12/2009 21:23:23,H/W Monitor ,Raid Powered On 
+17/12/2009 21:13:45,H/W Monitor ,Raid Powered On 
+11/12/2009 14:34:55,E3Enclosure Temp ,Recovered 
+11/12/2009 14:34:25,E4Enclosure Temp ,Recovered 
+11/12/2009 13:59:25,E3Enclosure Temp ,Over Temp. 
+11/12/2009 13:56:55,E4Enclosure Temp ,Over Temp. 
+08/12/2009 23:25:25,H/W Monitor ,Raid Powered On 
+08/12/2009 22:00:03,H/W Monitor ,Raid Powered On 
+08/12/2009 20:32:15,E4Enclosure Temp ,Recovered 
+08/12/2009 20:31:15,E4Enclosure Temp ,Over Temp. 
+07/12/2009 22:53:15,H/W Monitor ,Raid Powered On 
+07/12/2009 11:12:50,E4Enclosure Temp ,Recovered 
+07/12/2009 11:12:20,E4Enclosure Temp ,Over Temp. 
+07/12/2009 11:12:20,E3Enclosure Temp ,Recovered 
+07/12/2009 11:11:50,E3Enclosure Temp ,Over Temp. 
+07/12/2009 10:33:50,E4Enclosure Temp ,Recovered 
+07/12/2009 10:32:50,E4Enclosure Temp ,Over Temp. 
+07/12/2009 10:32:50,E3Enclosure Temp ,Recovered 
+07/12/2009 10:32:20,E4Enclosure Temp ,Recovered 
+07/12/2009 10:32:20,E3Enclosure Temp ,Over Temp. 
+07/12/2009 10:31:50,E4Enclosure Temp ,Over Temp. 
+07/12/2009 09:10:20,E4Enclosure Temp ,Recovered 
+07/12/2009 09:10:20,E3Enclosure Temp ,Recovered 
+07/12/2009 09:09:50,E4Enclosure Temp ,Over Temp. 
+07/12/2009 09:09:20,E3Enclosure Temp ,Over Temp. 
+04/12/2009 22:22:19,H/W Monitor ,Raid Powered On 
+04/12/2009 20:22:51,H/W Monitor ,Raid Powered On 
+04/12/2009 20:02:11,H/W Monitor ,Raid Powered On 
+04/12/2009 17:30:24,H/W Monitor ,Raid Powered On 
+04/12/2009 16:01:45,H/W Monitor ,Raid Powered On 
+03/12/2009 16:55:17,H/W Monitor ,Raid Powered On 
+03/12/2009 15:21:37,H/W Monitor ,Raid Powered On 
+03/12/2009 15:04:33,H/W Monitor ,Raid Powered On 
+02/12/2009 17:53:08,H/W Monitor ,Raid Powered On 
+02/12/2009 17:50:02,H/W Monitor ,Raid Powered On 
+02/12/2009 17:48:53,H/W Monitor ,Raid Powered On 
+02/12/2009 17:45:11,H/W Monitor ,Raid Powered On 
+02/12/2009 17:43:51,H/W Monitor ,Raid Powered On 
+02/12/2009 17:27:57,H/W Monitor ,Raid Powered On 
+02/12/2009 17:16:49,H/W Monitor ,Raid Powered On 
+01/12/2009 23:02:32,H/W Monitor ,Raid Powered On 
+01/12/2009 22:44:08,H/W Monitor ,Raid Powered On 
+01/12/2009 20:28:00,H/W Monitor ,Raid Powered On 
